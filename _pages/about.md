@@ -14,6 +14,11 @@ css: "/assets/css/custom.css"
     color: #444444;
     font-family: 'Lora', serif;
   }
+
+  h1.page__title {
+    font-family: 'Lora', serif;
+    font-weight: 600;
+  }
 </style>
 
 I'm Summer Liu. My Chinese name is 柳从然, which literally means “a willow tree that grows freely, in tune with nature.” I imagine when my parents gave me this name, they were wishing for me to follow the quiet, honest rhythm of my own heart — to bend, not break, like a willow in the wind, and to live gently but freely, true to my nature.
