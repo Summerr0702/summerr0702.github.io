@@ -2,7 +2,6 @@
 layout: single
 title: "about me"
 permalink: /about/
-classes: wide
 ---
 
 <style>
