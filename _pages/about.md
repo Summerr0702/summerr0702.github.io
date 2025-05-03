@@ -2,6 +2,7 @@
 layout: single
 title: "about me"
 permalink: /about/
+css: "/assets/css/custom.css"
 ---
 
 <style>
