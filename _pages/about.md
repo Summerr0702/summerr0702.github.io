@@ -11,11 +11,11 @@ css: "/assets/css/custom.css"
 <style>
 .page__title,
 .page__content p{
-  font-family:"Lora","Noto Serif SC",serif;
+  font-family: "Noto Serif SC","PingFang SC","Microsoft YaHei",serif;
 }
 
 .page__content p{
-  font-size:0.7rem;
+  font-size:0.75rem;
   color:#222222;
   line-height:1.5;
 }
