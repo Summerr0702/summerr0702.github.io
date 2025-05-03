@@ -5,8 +5,21 @@
   font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 
+/* ───────── 归档页标题链接 ───────── */
 h2.archive__item-title a {
-  font-size: 1rem !important; 
-  color: #222222 !important;       
-  font-family: "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif;
+  font-size: 1rem !important;                  /* 标题字号 */
+  color: #222 !important;                      /* 标题颜色 */
+  font-family: "Noto Serif SC","PingFang SC",
+               "Microsoft YaHei",serif !important;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+/* ───────── 归档页摘要文字 ───────── */
+.archive__item-excerpt p {
+  font-size: 0.85rem !important;               /* 摘要字号 */
+  color: #444 !important;                      /* 摘要颜色 */
+  line-height: 1.7;
+  font-family: "Noto Serif SC","PingFang SC",
+               "Microsoft YaHei",serif !important;
 }
