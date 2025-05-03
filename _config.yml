@@ -67,7 +67,7 @@ author:
       icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/congran-liu-9b4563252/"
     - label: "RED"
-      icon: "fa-regular fa-heart""color: #f81b1b;"
+      icon: "fa-solid fa-share-nodes"
       url: "https://www.xiaohongshu.com/user/profile/65df618b000000000500f575?xsec_token=YB6IAUDfo4Xcr3FiHNw2HSll1falTRnZ61o6TQkW1TbS8=&xsec_source=app_share&xhsshare=CopyLink&appuid=65df618b000000000500f575&apptime=1746233024&share_id=3dc8ea086c884625b7c890a98fe6d15f"
 
 footer:
