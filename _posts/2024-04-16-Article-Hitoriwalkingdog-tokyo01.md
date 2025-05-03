@@ -13,17 +13,20 @@ last_modified_at: 2024-04-16 20:00:00 -0400
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
 
 <style>
-.page__content p {
-  font-size: 0.55rem;
-  line-height: 1.6;
-  color: #444444;
-  font-family: "Lora", "PingFang SC", "Microsoft YaHei", "Heiti SC", serif;
+.page__title {
+  font-size: 1.0rem;
+  color: #222222;
+  font-family: "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 1rem;
 }
 
-.page__content p:lang(zh),
-.page__content p *:lang(zh) {
+.page__content p {
+  font-size: 0.55rem;
+  color: #333333;
+  line-height: 1.6;
   font-family: "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif;
-  font-size: 0.95rem;
 }
 </style>
 
