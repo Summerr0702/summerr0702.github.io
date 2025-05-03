@@ -44,6 +44,12 @@ last_modified_at: 2024-04-16 20:00:00 -0400
 
  P.S. 我给这趟旅行起名叫黑兜里遛狗，是ひとりりょこう的谐音（...）记得大三的时候跟Kelly和Tracy学起我日文堂口语小测的表现，她们笑我说旅行就像在说遛狗，因此去年在ig发文就是用起了这个自创的我以为很可爱的hashtag。其实去年这趟日本行也是我送给自己的毕业旅行来着，于是我用这个名称纪念起大学时期最要好的这一段友谊。
 
+<p align="center">
+  <img src="/assets/images/20240416-01.webp" alt="第一眼的东京" width="60%">
+  <br>
+  <em>第一眼的东京</em>
+</p>
+
 <!--more-->
 
 This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
