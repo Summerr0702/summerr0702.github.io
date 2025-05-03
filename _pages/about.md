@@ -5,6 +5,15 @@ permalink: /about/
 classes: wide
 ---
 
+<style>
+.page__content p {
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: #444444;
+  font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+</style> 
+
 I'm Summer Liu. My Chinese name is 柳从然, which literally means “a willow tree that grows freely, in tune with nature.” I imagine when my parents gave me this name, they were wishing for me to follow the quiet, honest rhythm of my own heart — to bend, not break, like a willow in the wind, and to live gently but freely, true to my nature.
 
 At 19, I left the place I once called “home” and moved to a vibrant island at the southern edge of the motherland. I spent four long summers in Macau, a city of humidity, light, and memories that shimmer like heat on pavement. Now, I find myself in Canada, where winter seems to stretch over half the year, wondering what stories might unfold here. Through these journeys, “home” has been redefined, again and again. I guess I’m still figuring out where home really is. But I’ve come to love the feeling of being on the road.
