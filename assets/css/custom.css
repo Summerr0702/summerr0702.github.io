@@ -13,8 +13,8 @@
 /* 归档页摘要（普通黑） */
 .archive__item-excerpt,
 .archive__item-excerpt p{
-  font-size: 0.75rem !important;
+  font-size: 0.65rem !important;
   color: #111 !important;
-  line-height: 1.5;
+  line-height: 1.3;
   font-family: "Noto Serif SC","PingFang SC","Microsoft YaHei",serif !important;
 }
