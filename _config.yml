@@ -86,6 +86,10 @@ atom_feed:
   path: ""
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
   # _posts
   - scope:
       path: ""
