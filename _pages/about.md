@@ -15,9 +15,9 @@ css: "/assets/css/custom.css"
 }
 
 .page__content p{
-  font-size:0.72rem;
+  font-size:0.75rem;
   color:#222222;
-  line-height:1.5;
+  line-height:1.6;
 }
 </style>
 
