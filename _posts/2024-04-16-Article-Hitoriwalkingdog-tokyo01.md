@@ -50,6 +50,12 @@ last_modified_at: 2024-04-16 20:00:00 -0400
   <em>第一眼的东京</em>
 </p>
 
+<p align="center">
+  <img src="/assets/images/20240416-02.webp" alt="落地时的夕阳 尤记得狗咪形容此景为“像宝石折射出的光一样”" width="60%">
+  <br>
+  <em>落地时的夕阳 尤记得狗咪形容此景为“像宝石折射出的光一样”</em>
+</p>
+
 <!--more-->
 
 This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
