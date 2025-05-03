@@ -13,14 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The only way to fight nothingness is to create something.
+title: a willow tree in summer
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Born in the golden summer of the new millennium. 
-  A willow tree takes root on my right arm — bearing my surname passed down from my father.
-  And mother named me 从然, hoping I would live by the quiet wisdom of my nature. Therefore I left the land I once called home. 
-  They began to call me Summer, for the season I was born in — and because my true name felt too distant on their tongues.
-  But history lives in me still, and so I began to write, to remember and to become who I truely am.
+  Nothing here, but a person trying to leave some trace of her existence.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -62,7 +58,7 @@ plugins:
 author:
   name   : "Summer Liu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Born in the golden summer of the new millennium. A willow tree takes root on my right arm — bearing my surname passed down from my father.And mother named me 从然, hoping I would live by the quiet wisdom of my nature. Therefore I left the land I once called home. They began to call me Summer, for the season I was born in — and because my true name felt too distant on their tongues.But history lives in me still, and so I began to write, to remember and to become who I truely am."
+  bio    : "Born in the golden summer of the new millennium. A willow tree takes root on my right arm — bearing my surname passed down from my papa."
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -70,15 +66,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/summerliu_u/"
 
 defaults:
   # _posts
