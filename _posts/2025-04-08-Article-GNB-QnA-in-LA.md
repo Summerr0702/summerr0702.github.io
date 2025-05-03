@@ -5,8 +5,8 @@ categories:
   - Music
 tags:
   - Los Angeles
-  - Live Music
-  - Punk Music
+  - 音乐笔记
+  - 銀杏BOYZ
 last_modified_at: 2025-04-08 20:00:00 -0400
 ---
 
