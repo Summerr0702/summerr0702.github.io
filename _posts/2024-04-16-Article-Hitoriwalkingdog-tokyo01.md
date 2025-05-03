@@ -45,31 +45,97 @@ last_modified_at: 2024-04-16 20:00:00 -0400
  P.S. 我给这趟旅行起名叫黑兜里遛狗，是ひとりりょこう的谐音（...）记得大三的时候跟Kelly和Tracy学起我日文堂口语小测的表现，她们笑我说旅行就像在说遛狗，因此去年在ig发文就是用起了这个自创的我以为很可爱的hashtag。其实去年这趟日本行也是我送给自己的毕业旅行来着，于是我用这个名称纪念起大学时期最要好的这一段友谊。
 
 <p align="center">
-  <img src="/assets/images/20240416-01.webp" alt="第一眼的东京" width="60%">
+  <img src="/assets/images/20240416-01.webp" alt="第一眼的东京" width="80%">
   <br>
   <em>第一眼的东京</em>
 </p>
 
 <p align="center">
-  <img src="/assets/images/20240416-02.webp" alt="落地时的夕阳 尤记得狗咪形容此景为“像宝石折射出的光一样”" width="60%">
+  <img src="/assets/images/20240416-02.webp" alt="落地时的夕阳 尤记得狗咪形容此景为“像宝石折射出的光一样”" width="80%">
   <br>
   <em>落地时的夕阳 尤记得狗咪形容此景为“像宝石折射出的光一样”</em>
 </p>
 
 <!--more-->
 
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
+6月13日，落地东京的第一晚，我去新宿的一家叫作“中華そば 流川”的拉面店解决晚餐，这也是我在日本的第一顿饭。这家拉面店确实是由一位SD粉丝开的，他在中野还有一家叫作“中華そば 仙道”的店面。爱城管称这两家店为“小刘拉面”和“彰郎拉面”，下次我要和狗咪去试试那家彰郎拉面。
 
-```yaml
-excerpt_separator: "<!--more-->"
-```
+<p align="center">
+  <img src="/assets/images/20240416-03.webp" alt="中華そば 流川" width="80%">
+  <br>
+  <em>中華そば 流川</em>
+</p>
 
-If you could keep awake (but of course you can't) you would see your own mother doing this, and you would find it very interesting to watch her. It is quite like tidying up drawers. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly stowing that out of sight. When you wake in the morning, the naughtiness and evil passions with which you went to bed have been folded up small and placed at the bottom of your mind and on the top, beautifully aired, are spread out your prettier thoughts, ready for you to put on.
+说实话，我点了哪一份拉面以及这拉面的味道是怎样的，我早就不太记得了。很多人都说吃不惯日本的拉面，太咸太齁，但我好像也没觉得怎样。为了这一碗面，我装模作样地去711换零钱，摸索着用拉面点单机器，把小票交给店员，然后淡定落座，宛如拉面店熟客，其实才刚刚在日本待了两个小时呢！后来听说在日本不会有女生自己一人去拉面店吃饭，日本人会觉得这样的女生很奇怪。管他呢，我哪里是自己一人来，我还有两位男高中生作伴。
 
-I don't know whether you have ever seen a map of a person's mind. Doctors sometimes draw maps of other parts of you, and your own map can become intensely interesting, but catch them trying to draw a map of a child's mind, which is not only confused, but keeps going round all the time. There are zigzag lines on it, just like your temperature on a card, and these are probably roads in the island, for the Neverland is always more or less an island, with astonishing splashes of colour here and there, and coral reefs and rakish-looking craft in the offing, and savages and lonely lairs, and gnomes who are mostly tailors, and caves through which a river runs, and princes with six elder brothers, and a hut fast going to decay, and one very small old lady with a hooked nose. It would be an easy map if that were all, but there is also first day at school, religion, fathers, the round pond, needle-work, murders, hangings, verbs that take the dative, chocolate pudding day, getting into braces, say ninety-nine, three-pence for pulling out your tooth yourself, and so on, and either these are part of the island or they are another map showing through, and it is all rather confusing, especially as nothing will stand still.
+在东京住的地方是新大久保附近的胶囊酒店，便宜、靠近山手线是我选择它的理由。订好住宿后告诉了在日本读书的朋友（我叫他富少，真是不知道从什么时候习惯了这个称呼），没想到他跟我说新大久保这个地方很乱。怎么办呢，订都订了......起初心里还怕怕的，不过实际去到发现也还好。从车站到酒店的沿街竟然有很多韩文招牌和kpop相关的店面，我还颇为得意地想着，来日本一趟还附赠在韩体验。不过后来有一天晚上，我和Manda约在歌舞伎町附近的一家寿喜烧见面，吃完饭又去逛了新宿的那家Donki，从里面出来都快凌晨一点了，Manda打车回了她的酒店，我自己从歌舞伎町走回新大久保。牛郎们都差不多下班了，醉酒大叔也神出鬼没，我低着头走过他们身边，心里到底还是害怕的，一路上简直健步如飞。下次，还是不要再住新宿附近了比较好......
 
-Of course the Neverlands vary a good deal. John's, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it. John lived in a boat turned upside down on the sands, Michael in a wigwam, Wendy in a house of leaves deftly sewn together. John had no friends, Michael had friends at night, Wendy had a pet wolf forsaken by its parents, but on the whole the Neverlands have a family resemblance, and if they stood still in a row you could say of them that they have each other's nose, and so forth. On these magic shores children at play are for ever beaching their coracles [simple boat]. We too have been there; we can still hear the sound of the surf, though we shall land no more.
+不过呢，日本的胶囊酒店真是远超我的期待，非常干净、安全、整洁、秩序井然。隔音当然是不怎么样，但好在我入住的那几晚都还算安静，也多亏我继承我爸的优良体质，不认床，给我一面平地我就能睡着。卫生方面，无论是公用厕所还是淋浴间，至少都是肉眼可见程度的干净；同时，入住者会被要求在每天早上十点前离开睡眠舱，会有工作人员在里面进行全面清洁，这或许对旅客来说有些许不便，但也保证了入住环境的卫生质量。唯一不太方便的是行李的拿取，但对我来说也不是什么大问题。我想下次我自己来东京，应该还是会选择住胶囊酒店～
 
-Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed. When you play at it by day with the chairs and table-cloth, it is not in the least alarming, but in the two minutes before you go to sleep it becomes very real. That is why there are night-lights.
+在小小的睡眠舱里度过了我在东京的第一个夜晚，第二天一早，我便刻不容缓地开始灌篮高手圣地巡礼。当天的路径是武藏野北高等学校——田无神社——三鹰之森吉卜力美术馆、吉祥寺——立川市的Super Paper Market，晚上再回东京和富少吃晚饭。
 
-Occasionally in her travels through her children's minds Mrs. Darling found things she could not understand, and of these quite the most perplexing was the word Peter. She knew of no Peter, and yet he was here and there in John and Michael's minds, while Wendy's began to be scrawled all over with him. The name stood out in bolder letters than any of the other words, and as Mrs. Darling gazed she felt that it had an oddly cocky appearance.
+七点就出发，从新大久保站乘中央总武线JR到三鹰站，再搭西武巴士到武藏野北高校前，正好赶上了中学生上学的时间。一路上见到了很多穿着制服的男孩女孩，和那些电影、动漫里看到的一模一样。说起武藏野，除了湘北原型的武藏野北高校，也总会想到岩井俊二的《四月物语》，坐在巴士上看到‘武藏野“的指示牌，也像松隆子一样在心里默念起来，这座远离东京繁华市区的小城好像自带一辑专属青春的寂寞滤镜。
+
+记得第一次在日本搭巴士真是十分慌张，不知道究竟要从前门还是后门上车，也不清楚下车时是否还要再拍一次西瓜卡。虽然说身为外国人，不明白这些才是正常的，也是应该被理解的，但是不想给别人添麻烦的心是超越国界的！
+
+路过武藏野北高校站，看到远处的三个小豆丁结伴上学，背着公文包的上班族骑着自行车经过，心里想着，原来这就是东京早晨的日常光景。同样是东亚国家，但好像和我的成长环境完全是不一样的氛围呢（譬如说，在中国的城市，很少会有家长放心让低年级的小朋友独自上学吧！）
+
+从武藏野北高校站走几步路就来到了，漫画里神奈川县立湘北高等学校的原型——东京都立武藏野北高等学校。可以看到教学楼的侧面悬挂着“祝关东大会出场 陆上竞技部”的幕条，看来日本的高校真的很重视运动社团活动的发展。我在后来也见到很多其他学校挂着类似的幕条，庆祝某个体育部门出场全国大赛什么的。高校间的全国大赛会在每年八月左右开始，六月中下旬应该正是通过地方赛陆续确定最终出场名额的时候吧。
+
+我来到的时候正是上学的时间，校门敞开着，陆续有学生走进校园，或者骑着单车，或者步行。即使早已不再是高中生了，看着他们年轻的身影，我心中还是会有些许的羡慕：不知道武藏野北高校的学生也会喜欢灌篮高手吗，电影上映的时候看了几多遍呢，在湘北高校的原型上学会是什么感受呢，一定会经常遇到像我这样的人在校门口徘徊吧...... 为了不被当作奇怪的人（OS：先收收你身上的宅味吧！），我在旁边等到校门口没人了才敢四处看看，拍拍照片。
+
+我原以为，来到这里的我一定会非常激动，但实际上更多是一种平静的怅然。久久伫立在校门口，像是在说给自己听一样，我在心里想——这就是了。我到后面才明白，我对SD的爱早已注入进名为“自我”之物里，时间久了，简单的愿望会变成一种善意的执念扎根在心底。叫我来到这里的，与其说是一种粉丝朝圣文化，不如说是想要填补自我的心意。在这个过程中，SD这部作品反而成了最次要的他者，这一路上原来都是我与我自己的对话。不过，这些想法都是我去到秋田县之后才理清楚的，现在我先就此打住。
+
+进了学校大门往左走就是咪酱去闹事的自行车棚，再往左便是室外的野球场（当然，我没有进入学校）。车棚后是学校的室内体育馆，也就是湘北的练习场地。可惜的是，翻看我当时的相册，完全没找到任何关于体育馆前的车棚的照片，大概是我当时只顾着担心被学生当成奇怪的人，便没好意思拍什么照片.......希望今年五月底和狗咪一起去再度巡礼的时候，可以弥补一下这个遗憾。
+
+虽说如此，我走到另一处的侧门时，还是没忍住往里探了一下身。这个侧门应该是为开车的教职工所设的，几乎没有人经过。我往里走了几步就很快离开了，但还是诚惶诚恐地，拍下了另一侧的自行车棚，和在六月盛开的、属于湘北的花。
+
+这个时候大概才八点多吧，偶尔有妈妈带着小朋友走出居民楼，除此之外几乎没有人打扰，只能听到鸟鸣和风声，非常安静惬意，我在这个秋千上荡了很久。
+
+差不多快九点了，我回到武藏野北高校站，坐西武巴士前往田无神社，也就是在大电影的片尾字幕里出现的、被官方认证的泽北荣治参拜神社的取景地。在Tanashicho 2-chome站下车，跟着谷歌地图走一段路就到了神社的入口。
+
+其实这个时候我就开始好奇日本的行政区域划分，虽然田无神社在西东京市，而武藏野北高校在武藏野市，但其实两处相距并不远，坐巴士十五分钟左右就到了。我意识到日本的“市”和中国的“市”完全不是一个概念，回去后我又仔细了解了一下东京都的行政区划，感觉很有意思呢。
+
+说回神社，这算得上是一座很古老的神社了，据说建造于十三世纪末的镰仓幕府时代，供奉着五龙神。虽然大概率是巧合，但我觉得这也很有意思，因为好像湘南一带也有着五头龙的传说，大概就是说湘南那边有一天突然出现了一座岛和一个美丽的仙女，暴戾的五头龙对她一见钟情，为她改过向善守护人民，而那座突然出现的岛就是“江之岛”。
+
+电影里，泽北在这里许下“请给我必要的经验吧”，然后就如愿获得了输的经验，于是我带着他来还愿了哈哈。其实我非常喜欢电影里新增的泽北赛前祈福的片段，从中我感受到了井上对这个人物的无限柔情。他赋予泽北荣治一个更“圆满”的结局——你以为你输了，但你想要的其实都得到了，你要知道这是神明在回应你的心愿，给予你所需的经验。那些必须要流的眼泪，注定要受的伤，都是神明的礼物，是人生拼图里所缺失的重要一块。
+
+买了田无神社的朱印本，得到了我的第一个御朱印，还买了很多御守想要送给家人和朋友。当然，我在神社本殿前二礼二拍手一礼，许了（很明确的）愿望，希望去到加拿大后可以顺顺利利，爸爸妈妈平安健康。结果是IRCC卡我的学签卡了七个月之久，我不得不在国内gap了一年。我想大概是日本的神不保佑中国人（bushi）。
+
+说起来，感觉田无神社的运营非常时尚且年轻化呢，社内还有咖啡车，可惜我到的时候还没有开始营业，希望下次有机会可以品尝到神社咖啡。神社也很重视社媒运营，Instagram更新得蛮频繁，内容很精美，一看就是有专人负责。咖啡车或许也可以形成一种打卡文化，应该会很受年轻人欢迎。
+
+在神社停留了一个多小时，我需要在11点之前赶到三鹰市。我的下一站，就是三鹰之森吉卜力美术馆。关于三鹰之森的门票，我是直接在飞猪上通过旅行社买的。我先在美术馆旁边的公园里找到地接拿票（票上并不是我自己的名字），然后和其他同行人按约订的场次时间一起入园，只要过了检票处，我们就可以分散开自由活动了。
+
+好在检票后每一个人都可以领到一张纪念胶片入场券，我领到的场景是《虞美人盛开的山坡》里焕然一新的拉丁大楼～ 
+
+美术馆还是比较小的，但是可看性极高。馆内不允许拍照，有各种手稿和手绘电影制作的装置，只是看着就觉得特别感动。馆内也有放映厅，会放映从未对外的短电影，我看了トトロ的ねこバス。我印象最深的一个展厅还是一间本身就带有浓厚的吉卜力风格的绘图工作室，它像是吉卜力众多动画制作人的精神世界实体化的存在，美轮美奂的装潢和精致的摆设，就像是会出现在吉卜力电影里的场景。复古的墙壁上挂着一幅幅手稿，我们排着队缓缓地经过，睁大双眼仔细凝视，无法用镜头记录的事物，只好用眼睛和心好好记住。
+
+临近中午，便在美术馆内的咖啡馆享用了一顿简餐。咖啡馆叫麦わらぼうし，草帽咖啡馆，灵感是来自苏菲的草帽店吧。
+
+看了猫猫巴士的短片，参观了一圈美术馆，又在馆内的纪念品商店大肆消费一番后，屋外突然下起了小雨。我趁此时前往楼顶，去见Laputa的机器人兵。因为下着雨，所以楼顶没有其他参观者，阴沉沉的天空衬着机器人兵更加孤独了，好在还有staff小姐姐陪着他。staff也很热情地帮我和机器人兵拍了照片和ig story，非常感谢～
+
+差不多该离开了，我想着途经井之头恩赐公园前往吉祥寺，我要从吉祥寺站坐中央线JR去立川市，在那里有井上吧唧的线下常驻店Super Paper Market。在井之头恩赐公园里，我遇到了几颗十分漂亮的蘑菇，因为我从来没在城市里见到蘑菇，自然觉得十分惊喜和好奇。我弯下身仔细端详它们，这时有一个阿姨也停留在我身后，对我说“真的非常可爱呢”。因为是很简单的日语所以我听明白了，但是脑子完全不知道怎么回复，条件反射般地说“係呀”，但在阿姨听来应该是我在说“はい“吧，所以她笑着也拿出手机和我一起拍照。
+
+和阿姨告别后，我继续走了一阵，还是决定搭巴士去吉祥寺了。巴士上人很多，我不得不站在最前面，但是却因此获得一段特别美好的体验——就像是在玩游乐园里的3D设施，第一视角经历了一段巴士冒险，穿梭在这座美丽的淅淅沥沥的森林小城。不得不感慨，三鹰市真的好漂亮啊，满眼的绿色，连呼吸都觉得清新。
+
+我到达吉祥寺站时时间还很早，大概不到三点，便决定在附近的街区逛逛。吉祥寺一直是被东京人评选为最想居住的街道，对此我非常理解。谁不想住在漂亮的森林小镇里，有公园、湖畔、玲琅满目的商店小铺，可爱的咖啡屋和面包店作伴。我沿着一条街闲逛，发现一家门口摆放着龙猫的泡芙店，叫白髭のシュークリーム工房，白胡子泡芙工厂。我在小红书上搜了下这家店，发现还蛮网红的（？）可惜我去到的时候，龙猫形状的泡芙已经卖光了，所以我买了一份小龙猫形状的饼干。
+
+后来回到吉祥寺车站，在附近买了很出名的Satou牛肉丸，是好吃的，但口感并没有很惊艳到我。我在吉祥寺站前的Baskin Robbins买了份冰淇淋汽水，在店门口没吃几口汽水就撒了半杯，感觉路过的日本人心里应该在对我直翻白眼。私密马赛，外国人です。说起来，我一直喊这个冰淇淋品牌叫BR，但是我在谷歌地图上看到它的日文名竟然是サーティワンアイスクリーム，也就是31 ice cream，我以为31 refer to BR的logo中间颜色不同的部分。后来我又上网搜了搜，发现这家冰淇淋品牌其实就叫31冰淇淋。有人说很多年前在北京也有店面，它在中国就叫“美国31种口味冰淇淋”。不过我从来没在中国见到这家冰淇淋店，我一次吃它还是十年前在韩国。总之，这个小插曲也让我觉得很有趣，很惊喜，想要记录一下。
+
+终于，我从吉祥寺车站坐中央线JR到达立川站，沿着サンサンロード步行大概十分钟左右就到了Super Paper Market，这是一家纸艺文创集合店，里面有不同的文创品牌在此售卖，其中就包括井上吧唧店，イノウエバッジ店。于是，我的购物欲在我到达日本的第一天就熊烈燃起了，给自己买，帮朋友买，主打的中心思想就是——先买吧，至于活着，我再想想办法.jpg。
+
+很可惜的是，这家Super Paper Market在2024年2月就关闭了，它们会搬迁到立川市的另一个地址，新店大概会在5月中旬开业，这意味着今年五月底我再次去日本的时候，还是可以光顾它的新门店～只是我非常喜欢原来的地址所在的サンサンロード的街区景观。
+
+我以为吉祥寺富有情调的时尚氛围是因为靠临东京市，但远离东京市区的立川竟然也如此摩登，还是让我暗自惊呼了一下。我格外喜欢这条多摩单轨电车驶经的高架桥，和盛开着绣球花的漂亮街道并行，轻盈地高悬着，特别有现代感，这让立川的城景看上去不输任何一座大城市。刚刚下过一阵小雨，街道却格外干净。雨后的绣球饱满地呼吸着，树上的苔藓静悄悄地生长。我真是第一眼就爱上了这座小城......
+
+快到傍晚了，我和富少约在有乐町车站见面，他带我去银座吃一间回转寿司。我和富少差不多有五年没有见面了吧，上一次见我们都还是高中生，我和富少能成为朋友也真是一段神奇的经历。
+
+记得在十字路口等红灯时，遥遥见到银座的这座爱马仕大楼，我有种乡里别进城的感觉，也是从这一刻，我正式体会到“东京”这个概念，此时的心情差不多就像是三叶第一次用泷的身体推开家门，大喊一声“这就是东京啊——”。
+
+吃过晚饭，富少又带我遛哒去丸之内东映戏院看看，SD电影在映时很多主创都在这里举办了映后分享会，我来隔着时空感受下他们的气息。这也是我当天的最后一个站点。  
+
+以上就是我在日本的第一天的全部行程，漫长得像经历了大半辈子，做了很多很多事情，去了很多很多地方，身体虽然疲惫但心灵十分亢奋。这一天我主要是流窜在多摩地区，从武藏野到西东京市再到三鹰，又去了立川，感想是真的非常喜欢多摩地区，和东京市区繁华大都会的样貌完全不同，但那种轻松又时尚、透着呼吸感的氛围令我十分着迷。于是今年五月底的日本行，我计划在小金井市留宿三天，再好好体会下多摩的美。
+
+得益于前期所准备的详实的规划，我高效地把东京都内所有SD相关的场所都打卡了一遍，真的是非常精彩充实，回顾起来也还是让我感到很幸福。这一路上经常想要拍拍自己，谢谢我的头脑，谢谢我的双脚，谢谢我年轻的身体，我要趁着心还飞扬，尽可能多地体验各种事情。
+
+年轻就是要早七晚九在外面玩乐！ψ(｀∇´)ψ
