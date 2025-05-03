@@ -1,27 +1,20 @@
-.layout--single .page__content p {
-  font-size: 0.75rem;
-  line-height: 1.6;
-  color: #444444;
-  font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
-}
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap");
 
-/* ───────── 归档页标题 ➜ 深绿色 ───────── */
+/* 归档页标题（深绿色） */
 .archive__item-title,
 .archive__item-title a{
-  font-size: 0.8rem !important;
-  color: #0b4d3c !important;              /* 深绿色 */
-  font-family: "Noto Serif SC","PingFang SC",
-               "Microsoft YaHei",serif !important;
+  font-size: 1rem !important;
+  color: #0b4d3c !important;
+  font-family: "Noto Serif SC","PingFang SC","Microsoft YaHei",serif !important;
   font-weight: 600;
   line-height: 1.4;
 }
 
-/* ───────── 归档页摘要 ➜ 普通黑色 ───────── */
+/* 归档页摘要（普通黑） */
 .archive__item-excerpt,
 .archive__item-excerpt p{
-  font-size: 0.6rem !important;
-  color: #222 !important;                 /* 纯黑/深灰 */
+  font-size: 0.85rem !important;
+  color: #111 !important;
   line-height: 1.7;
-  font-family: "Noto Serif SC","PingFang SC",
-               "Microsoft YaHei",serif !important;
+  font-family: "Noto Serif SC","PingFang SC","Microsoft YaHei",serif !important;
 }
