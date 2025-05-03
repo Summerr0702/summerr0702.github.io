@@ -1,8 +1,17 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "about me"
 ---
 
-Hi, I'm Summer. My Chinese name is 柳从然, which literally means “a willow tree that grows freely, in tune with nature.” I imagine when my parents gave me this name, they were wishing for me to follow the quiet, honest rhythm of my own heart — to bend, not break, like a willow in the wind, and to live gently but freely, true to my nature.
+I'm Summer Liu. My Chinese name is 柳从然, which literally means “a willow tree that grows freely, in tune with nature.” I imagine when my parents gave me this name, they were wishing for me to follow the quiet, honest rhythm of my own heart — to bend, not break, like a willow in the wind, and to live gently but freely, true to my nature.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+At 19, I left the place I once called “home” and moved to a vibrant island at the southern edge of the motherland. I spent four long summers in Macau, a city of humidity, light, and memories that shimmer like heat on pavement. Now, I find myself in Canada, where winter seems to stretch over half the year, wondering what stories might unfold here. Through these journeys, “home” has been redefined, again and again. I guess I’m still figuring out where home really is. But I’ve come to love the feeling of being on the road.
+
+I like traveling alone, watching films alone, attending live shows alone — but that doesn’t mean I don’t enjoy the company of others.
+I’ve simply built a quiet, safe corner for myself — a space to gather my travel journals, film reviews, and personal reflections. Writing helps me untangle my thoughts and see myself a little more clearly.
+Perhaps the stories that happen to me hold no inherent meaning.
+Perhaps even the act of writing them down feels futile at times.
+But I write anyway — to give shape to the formless, and meaning to the moment.
+Because, you know, the only way to fight nothingness is to create something :) 
+
+P.S. I write in English sometimes, but more often in Chinese, the language that cradles my memories and slips more easily into silence.
