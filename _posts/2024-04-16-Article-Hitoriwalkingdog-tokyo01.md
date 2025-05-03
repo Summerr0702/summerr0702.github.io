@@ -125,21 +125,21 @@ last_modified_at: 2024-04-16 20:00:00 -0400
 沿着学校的野球场往前走，在十字路口向右拐两个弯，进入一片居民区，这个位置大概就在野球场的后面，在这里可以找到笨蛋二人组打完架后谈心的秋千。
 
 <p align="center">
-  <img src="/assets/images/20240416-10.webp" alt="漫画第一章湘北高校初登场，教学楼的外立面和现实中一模一样" width="70%">
+  <img src="/assets/images/20240416-10.webp" alt="良田和花道坐在这里分享自己的感情史" width="70%">
   <br>
-  <em>漫画第一章湘北高校初登场，教学楼的外立面和现实中一模一样</em>
+  <em>良田和花道坐在这里分享自己的感情史</em>
 </p>
 
 这个时候大概才八点多吧，偶尔有妈妈带着小朋友走出居民楼，除此之外几乎没有人打扰，只能听到鸟鸣和风声，非常安静惬意，我在这个秋千上荡了很久。
 
 <p align="center">
-  <img src="/assets/images/20240416-011.webp" alt="漫画第五十四章，左下角的铁丝围栏原来就是湘北高校野球场的围栏呢" width="70%">
+  <img src="/assets/images/20240416-11.webp" alt="漫画第五十四章，左下角的铁丝围栏原来就是湘北高校野球场的围栏呢" width="70%">
   <br>
   <em>漫画第五十四章，左下角的铁丝围栏原来就是湘北高校野球场的围栏呢</em>
 </p>
 
 <p align="center">
-  <img src="/assets/images/20240416-012.webp" alt="临走前拿出兄弟俩的figure拍照～" width="70%">
+  <img src="/assets/images/20240416-12.webp" alt="临走前拿出兄弟俩的figure拍照～" width="70%">
   <br>
   <em>临走前拿出兄弟俩的figure拍照～</em>
 </p>
