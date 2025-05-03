@@ -5,22 +5,19 @@ permalink: /about/
 css: "/assets/css/custom.css"
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap" rel="stylesheet">
 
 <style>
-  .page__content p {
-    font-size: 0.75rem;
-    line-height: 1.7;
-    color: #444444;
-    font-family: "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif;
-  }
+/* 标题 */
+.page__title{
+  font-family: "Lora","PingFang SC","Microsoft YaHei",serif;
+}
 
-  h1.page__title {
-    font-family: "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif;
-    font-weight: 600;
-  }
+/* 正文段落 */
+.page__content p{
+  font-family: "Lora","PingFang SC","Microsoft YaHei",serif;
+}
 </style>
-
 
 I'm Summer Liu. My Chinese name is 柳从然, which literally means “a willow tree that grows freely, in tune with nature.” I imagine when my parents gave me this name, they were wishing for me to follow the quiet, honest rhythm of my own heart — to bend, not break, like a willow in the wind, and to live gently but freely, true to my nature.
 
