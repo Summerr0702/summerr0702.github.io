@@ -5,20 +5,19 @@ permalink: /about/
 css: "/assets/css/custom.css"
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
-/* 标题 */
-.page__title{
-  font-family: "Lora","PingFang SC","Microsoft YaHei",serif;
+.page__title,
+.page__content p{
+  font-family:"Lora","Noto Serif SC",serif;
 }
 
-/* 正文段落 */
 .page__content p{
-  font-family: "Lora","PingFang SC","Microsoft YaHei",serif;
-  font-size: 0.65rem; 
-  color: #222222;  
-  line-height: 1.5;
+  font-size:0.7rem;
+  color:#222222;
+  line-height:1.5;
 }
 </style>
 
