@@ -16,6 +16,9 @@ css: "/assets/css/custom.css"
 /* 正文段落 */
 .page__content p{
   font-family: "Lora","PingFang SC","Microsoft YaHei",serif;
+  font-size: 0.65rem; 
+  color: #222222;  
+  line-height: 1.5;
 }
 </style>
 
