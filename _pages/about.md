@@ -11,7 +11,7 @@ css: "/assets/css/custom.css"
 <style>
 .page__title,
 .page__content p{
-  font-family: "Noto Serif SC","PingFang SC","Microsoft YaHei",serif;
+  font-family: "Lora","Noto Serif SC","PingFang SC","Microsoft YaHei",serif;
 }
 
 .page__content p{
