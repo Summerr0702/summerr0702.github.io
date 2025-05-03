@@ -67,7 +67,7 @@ author:
       icon: "fa-brands fa-instagram" 
       url: "https://www.linkedin.com/in/congran-liu-9b4563252/"
     - label: "RED"
-      icon: "fa-regular fa-heart"
+      icon: "<i class='fa-regular fa-heart' style='color: #f71d1d;'></i>" 
       url: "https://www.linkedin.com/in/congran-liu-9b4563252/"
 
 footer:
