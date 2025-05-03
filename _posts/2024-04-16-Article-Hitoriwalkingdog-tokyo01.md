@@ -7,6 +7,7 @@ tags:
   - 黑兜里遛狗记
   - Japan
   - Solo Trip
+  - 巡礼笔记
 last_modified_at: 2024-04-16 20:00:00 -0400
 ---
 
