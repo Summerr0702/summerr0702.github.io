@@ -8,7 +8,7 @@
 /* ───────── 归档页标题 ➜ 深绿色 ───────── */
 .archive__item-title,
 .archive__item-title a{
-  font-size: 1rem !important;
+  font-size: 0.8rem !important;
   color: #0b4d3c !important;              /* 深绿色 */
   font-family: "Noto Serif SC","PingFang SC",
                "Microsoft YaHei",serif !important;
@@ -19,7 +19,7 @@
 /* ───────── 归档页摘要 ➜ 普通黑色 ───────── */
 .archive__item-excerpt,
 .archive__item-excerpt p{
-  font-size: 0.85rem !important;
+  font-size: 0.6rem !important;
   color: #222 !important;                 /* 纯黑/深灰 */
   line-height: 1.7;
   font-family: "Noto Serif SC","PingFang SC",
