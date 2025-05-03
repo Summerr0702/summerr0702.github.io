@@ -66,6 +66,9 @@ author:
     - label: " LinkedIn"
       icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/congran-liu-9b4563252/"
+    - label: "RED"
+      icon: <i class="fa-light fa-heart fa-sm" style="color: #f00f26;"></i>
+      url: "https://www.linkedin.com/in/congran-liu-9b4563252/"
 
 footer:
   links:
