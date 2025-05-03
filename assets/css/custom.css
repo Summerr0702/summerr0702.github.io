@@ -3,7 +3,7 @@
 /* 归档页标题（深绿色） */
 .archive__item-title,
 .archive__item-title a{
-  font-size: 1rem !important;
+  font-size: 0.9rem !important;
   color: #0b4d3c !important;
   font-family: "Noto Serif SC","PingFang SC","Microsoft YaHei",serif !important;
   font-weight: 600;
@@ -13,8 +13,8 @@
 /* 归档页摘要（普通黑） */
 .archive__item-excerpt,
 .archive__item-excerpt p{
-  font-size: 0.85rem !important;
+  font-size: 0.75rem !important;
   color: #111 !important;
-  line-height: 1.7;
+  line-height: 1.5;
   font-family: "Noto Serif SC","PingFang SC","Microsoft YaHei",serif !important;
 }
