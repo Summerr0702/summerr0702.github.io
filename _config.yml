@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Summer Liu"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "Born in midsummer of the new millennium. A willow tree takes root on my right arm, avatar.jpgbearing my surname passed down from my papa."
+  bio    : "Born in the midsummer of the new millennium. A willow tree takes root on my right arm, bearing my surname passed down from my papa."
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
