@@ -9,7 +9,7 @@ css: "/assets/css/custom.css"
 
 <style>
   .page__content p {
-    font-size: 0.85rem;
+    font-size: 0.75rem;
     line-height: 1.7;
     color: #444444;
     font-family: 'Lora', serif;
