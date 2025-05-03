@@ -23,8 +23,8 @@ last_modified_at: 2024-04-16 20:00:00 -0400
 }
 
 .page__content p {
-  font-size: 0.55rem;
-  color: #333333;
+  font-size: 0.65rem;
+  color: #222222;
   line-height: 1.6;
   font-family: "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif;
 }
