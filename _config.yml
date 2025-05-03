@@ -61,13 +61,13 @@ author:
   bio    : "Born in the midsummer of the new millennium. A willow tree takes root on my right arm, bearing my surname passed down from my father."
   links:
     - label: "Instagram"
-      icon: ”<i class="fa-brands fa-instagram"></i>“
+      icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/summerliu_u/"
     - label: " LinkedIn"
-      icon: “<i class="fa-brands fa-instagram"></i>” 
+      icon: "fa-brands fa-instagram" 
       url: "https://www.linkedin.com/in/congran-liu-9b4563252/"
     - label: "RED"
-      icon: “<i class="fa-light fa-heart fa-sm" style="color: #f00f26;"></i>”
+      icon: "fa-regular fa-heart"
       url: "https://www.linkedin.com/in/congran-liu-9b4563252/"
 
 footer:
