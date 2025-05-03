@@ -4,3 +4,17 @@
   color: #444444;
   font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
 }
+
+.archive__item-title {
+  font-size: 0.9rem;
+  font-family: "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif;
+  color: #222222;
+  font-weight: 600;
+}
+
+.archive__item-excerpt p {
+  font-size: 0.7rem;
+  color: #444444;
+  line-height: 1.6;
+  font-family: "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif;
+}
