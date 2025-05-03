@@ -55,6 +55,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.css
+
 author:
   name   : "Summer Liu"
   avatar : "/assets/images/avatar.jpg"
