@@ -10,6 +10,23 @@ tags:
 last_modified_at: 2024-04-16 20:00:00 -0400
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
+
+<style>
+.page__content p {
+  font-size: 0.55rem;
+  line-height: 1.6;
+  color: #444444;
+  font-family: "Lora", "PingFang SC", "Microsoft YaHei", "Heiti SC", serif;
+}
+
+.page__content p:lang(zh),
+.page__content p *:lang(zh) {
+  font-family: "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif;
+  font-size: 0.95rem;
+}
+</style>
+
 去年在日本的14天，是我第一次独自一人出国旅行。让我下定决心出行的原因其实在我之前的很多篇微博里就已经说明了，尽管现在写出来还是感觉那么中二——因为SD大电影的上映，太多人开始讨论起这部作品，在最初的兴奋过后，我感到被打扰。我以为SD是我借井上之笔为自己筑起的小巢，我可以在其中自在安静地待一辈子，那些年轻的男孩女孩将注视着我成长，直到有一天我不再需要借助他们的力量。
 
 然而大电影的上映召唤了一出出热闹（甚至略显荒诞）的狂欢闹剧。我很快接受了SD到底是一部影响之深且经久不衰的作品，在各个年代、各种观众间展现它无与伦比的魅力。这是一部伟大的作品，人人都爱它，人人都爱那些男孩女孩。每个人都在宣泄着自己的表达，太多的声音涌入我的头脑，我的爱突然变得极为渺小。在那些听起来笃定的描述里我开始感到疑惑，后来又觉得愤怒（因为乐子人和cp脑人的入侵），但很快这些情绪转化为对自我的怀疑：我又真的了解他们吗，我又怎么会知道他们是什么样的人呢？这种怀疑的本质是对自己的存在的怀疑，当每个人都在参与同一件事并对其发出各种声音，我在其中的位置在哪里，我有多重要？或者说，我重要吗？
