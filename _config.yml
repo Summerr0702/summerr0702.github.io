@@ -112,6 +112,5 @@ collections:
     output: true
     permalink: /film/:path/
 
-# 告诉主题也加载这个 CSS 文件
 custom_css:
   - /assets/css/custom.css
