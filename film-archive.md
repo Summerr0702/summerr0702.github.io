@@ -6,57 +6,69 @@ author_profile: true
 ---
 
 <style>
-/* ===== 仅在 /film/ 页面生效的网格样式 ===== */
+/* —— 引入 Google Fonts: Lora —— */
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&display=swap");
+
+/* ===== Film 首页网格 ===== */
 .collection-grid{
-  /* 自动填充，最小 200px，最大 1fr */
   display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
-  gap:1.2rem;
-  max-width:960px;
-  margin:1.6rem auto;
-  padding:0;
+  /* 缩略图从 160 px 起跳，比之前 220 px 更小 */
+  grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
+  gap:1.4rem;
+  margin:1.8rem 0;
 }
 
-/* 每个缩略图块 */
-.collection-grid__item{
-  list-style:none;
-  text-align:center;
-}
-
-/* 缩略图本体 */
-.collection-grid__item img{
-  width:100%;
-  aspect-ratio:1/1;          /* 强制正方形 */
-  object-fit:cover;          /* 溢出裁剪 */
-  border-radius:6px;
-  box-shadow:0 0 0 2px #e0e0e0 inset;
-  transition:transform .25s ease, box-shadow .25s ease;
+/* 整张卡片可点 */
+.collection-grid__item a{
+  text-decoration:none;
+  color:inherit;
   display:block;
 }
 
-/* 标题（地区名字） */
-.collection-grid__label{
-  margin-top:.5rem;
-  font-size:1rem;
-  font-weight:500;
-  line-height:1.3;
-  color:inherit;
+/* 缩略图容器 */
+.collection-grid__figure{
+  position:relative;
+  overflow:hidden;
+  border-radius:8px;
+  transition:transform .25s ease;
 }
 
-/* ---------- Hover 效果 ---------- */
+.collection-grid__figure img{
+  width:100%;
+  aspect-ratio:1/1;
+  object-fit:cover;
+  display:block;
+  filter:brightness(95%);
+  transition:filter .25s ease;
+}
+
+/* 底部半透明标题 —— 改用 Lora */
+.collection-grid__caption{
+  position:absolute;
+  inset:auto 0 0 0;
+  background:rgba(0,0,0,.45);
+  color:#fff;
+  padding:.4rem .65rem;
+  font:500 0.95rem/1.3 "Lora", serif;  /* 这里指定字体 */
+  letter-spacing:.4px;
+  backdrop-filter:blur(2px);
+  transition:background .25s ease;
+}
+
+/* Hover: 轻微放大 + 提亮 */
+.collection-grid__item:hover .collection-grid__figure{
+  transform:scale(1.035);
+}
 .collection-grid__item:hover img{
-  transform:scale(1.04);
-  box-shadow:0 4px 12px rgba(0,0,0,.15);
+  filter:brightness(100%);
+}
+.collection-grid__item:hover .collection-grid__caption{
+  background:rgba(0,0,0,.6);
 }
 
-/* ---------- 深色模式自适应（可选） ---------- */
+/* 深色模式（可选） */
 @media (prefers-color-scheme:dark){
-  .collection-grid__item img{
-    box-shadow:0 0 0 2px #444 inset;
-  }
-  .collection-grid__item:hover img{
-    box-shadow:0 4px 12px rgba(0,0,0,.6);
-  }
+  .collection-grid__caption{background:rgba(0,0,0,.55);}
 }
 </style>
 
