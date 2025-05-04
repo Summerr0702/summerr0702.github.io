@@ -6,17 +6,15 @@ permalink: /film/
 
 {% assign groups = site.film | group_by: "region" %}
 
-{% for group in groups %}
-## {{ group.name }}
-
 <div class="collection-grid">
-  {% for item in group.items %}
+  {% for group in groups %}
+    {% assign name  = group.name %}
+    {% assign thumb = group.items[0].image %}
     <div class="collection-grid__item">
-      <a href="{{ item.url }}">
-        <img src="{{ item.image }}" alt="{{ item.title }}"/>
-        <h4 style="text-align:center;margin-top:.5rem">{{ item.title }}</h4>
+      <a href="/film/{{ name | downcase }}/">
+        <img src="{{ thumb }}" alt="{{ name }}"/>
+        <p class="collection-grid__label">{{ name }}</p>
       </a>
     </div>
   {% endfor %}
 </div>
-{% endfor %}
