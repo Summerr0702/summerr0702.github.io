@@ -60,9 +60,9 @@ author_profile: false
 </style>
 
 {% comment %}
-抓取所有 region == "China" 的条目，把每个 roll 的 gallery 图片合并。
+抓取所有 region == "Japan" 的条目，把每个 roll 的 gallery 图片合并。
 {% endcomment %}
-{% assign rolls = site.film | where:"region","China" %}
+{% assign rolls = site.film | where:"region","Japan" %}
 {% assign imgs  = "" | split:"" %}
 {% for r in rolls %}
   {% assign imgs = imgs | concat:r.gallery %}
