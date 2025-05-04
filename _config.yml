@@ -116,3 +116,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# _config.yml
+remote_theme: mmistakes/minimal-mistakes
+# … 其它配置 …
+
+# 告诉 Minimal Mistakes 也加载这个 CSS 文件
+custom_css:
+  - /assets/css/custom.css
