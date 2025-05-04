@@ -10,4 +10,20 @@ gallery:
   - /assets/images/film/china-04.jpg
   - /assets/images/film/china-05.jpg
   - /assets/images/film/china-06.jpg
+  - /assets/images/film/china-07.jpg
+  - /assets/images/film/china-08.jpg
+  - /assets/images/film/china-09.jpg
+  - /assets/images/film/china-10.jpg
+  - /assets/images/film/china-11.jpg
+  - /assets/images/film/china-12.jpg
+  - /assets/images/film/china-13.jpg
+  - /assets/images/film/china-14.jpg
+  - /assets/images/film/china-15.jpg
+  - /assets/images/film/china-16.jpg
+  - /assets/images/film/china-17.jpg
+  - /assets/images/film/china-18.jpg
+  - /assets/images/film/china-19.jpg
+  - /assets/images/film/china-20.jpg
+  - /assets/images/film/china-21.jpg
+  - /assets/images/film/china-22.jpg
 ---
