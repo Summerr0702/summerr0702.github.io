@@ -18,7 +18,7 @@ permalink: /film/
 }
 .collection-grid__item img {
   width: 100%;
-  height: 0;
+  height: 3;
   padding-bottom: 100%;
   object-fit: cover;
   border-radius: 4px;
