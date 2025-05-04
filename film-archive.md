@@ -42,10 +42,10 @@ author_profile: true
 .collection-grid__caption{
   position:absolute;
   inset:auto 0 0 0;
-  padding:.45rem .7rem;
+  padding:.25rem .7rem;
   background:rgba(0,0,0,.45);
   backdrop-filter:blur(2px);
-  font:500 .95rem/1.3 "Lora", serif;
+  font:500 .82rem/1.25 "Lora", serif;
   color:#fff;
   letter-spacing:.4px;
   transition:background .25s ease;
@@ -62,7 +62,7 @@ author_profile: true
 }
 
 .collection-grid{
-  margin-top:.1rem;  
+  margin-top:.0rem;  
 }
 </style>
 
