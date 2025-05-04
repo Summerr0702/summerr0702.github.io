@@ -47,22 +47,15 @@ author_profile: false
 
 .gslide-media{
   max-width:60vw !important;   /* 你喜欢的宽度 */
-  max-height:65vh !important;  /* 你喜欢的高度 */
   border-radius:8px;
   box-shadow:0 10px 24px rgba(0,0,0,.35);
-}
-
-.ginner{                      /* ginner 是 GLightbox 的最里层容器 */
-  display:flex !important;    /* 改成 Flex */
-  align-items:center !important;  /* 垂直居中 */
-  justify-content:center !important; /* 水平居中 */
-  height:100%; width:100%;    /* 占满弹窗，保证居中参考系 */
 }
 
 .gslide-inner{
   display:flex !important;
   align-items:center !important;     /* 垂直居中 */
   justify-content:center !important; /* 水平居中 */
+  height:100%; width:100%;
 }
 </style>
 
