@@ -55,16 +55,14 @@ author_profile: true
 .collection-grid__item:hover img{filter:brightness(100%);}
 .collection-grid__item:hover .collection-grid__caption{background:rgba(0,0,0,.6);}
 
-/* ① 彻底干掉由空行生成的 <p> —— 不占高度也不留空白 */
 .page__content > p:empty{
   margin:0;
   padding:0;
   display:none;
 }
 
-/* ② 让网格离标题再靠近一点（数值可按喜好微调） */
 .collection-grid{
-  margin-top:.8rem;     /* 原来是 1.8rem → 改成 .8rem */
+  margin-top:.6rem;     /* 原来是 1.8rem → 改成 .8rem */
 }
 </style>
 
