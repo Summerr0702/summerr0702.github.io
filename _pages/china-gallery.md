@@ -43,6 +43,7 @@ author_profile: false
 /* —— 调整弹窗留白 —— */
 .glightbox-container{
   padding:8vh 10vw !important;   /* 上下 8% 视口高；左右 10% 视口宽 */
+  background:rgba(0,0,0,.55)!important;   /* 0.55 越小越透，可改 0.4~0.7 */
 }
 
 .gslide-media{
