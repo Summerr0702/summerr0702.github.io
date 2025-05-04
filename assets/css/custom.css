@@ -21,3 +21,14 @@
   font-family: "Lora", "Noto Serif SC",
                "PingFang SC", "Microsoft YaHei", serif !important;
 }
+
+.collection-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.collection-grid__item a {
+  text-decoration: none;
+  color: inherit;
+}
