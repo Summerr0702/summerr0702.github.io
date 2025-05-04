@@ -34,9 +34,9 @@ last_modified_at: 2025-04-08 20:00:00 -0400
 
 演出氛围非常好。BABY BABY开场时，吉他手应该是有一个音弹得不够好，峯田打断了他，重新再来。第二遍时，吉他手顺利完成那个音节，全场包括峯田都在欢呼。我在听ナイトライダー时又在掉眼泪了，因为实在感觉太幸福了。<br>
 
-<a href="https://mmistakes.github.io/minimal-mistakes/"
+<a href="https://www.youtube.com/shorts/hYTct2AntOY"
    target="_blank" rel="noopener">
-  官方 Minimal Mistakes 文档
+  【銀杏BOYZ】ナイトライダー at Going Underground Records in LA
 </a>
 
 演出结束后有一个15分钟左右的迷你Q&A session，峯田很真诚地回答了很多问题。在此存档一下～
