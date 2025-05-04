@@ -55,7 +55,6 @@ author_profile: true
 .collection-grid__item:hover img{filter:brightness(100%);}
 .collection-grid__item:hover .collection-grid__caption{background:rgba(0,0,0,.6);}
 </style>
-
 {% assign groups = site.film | group_by: "region" %}
 <div class="collection-grid">
 {% for group in groups %}
