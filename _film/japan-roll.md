@@ -16,4 +16,12 @@ gallery:
   - /assets/images/film/japan-10.jpg
   - /assets/images/film/japan-11.jpg
   - /assets/images/film/japan-12.jpg
+  - /assets/images/film/japan-13.jpg
+  - /assets/images/film/japan-14.jpg
+  - /assets/images/film/japan-15.jpg
+  - /assets/images/film/japan-16.jpg
+  - /assets/images/film/japan-17.jpg
+  - /assets/images/film/japan-18.jpg
+  - /assets/images/film/japan-19.jpg
+  - /assets/images/film/japan-20.jpg
 ---
