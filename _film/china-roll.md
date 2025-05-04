@@ -5,10 +5,10 @@ region: China
 image: /assets/images/film/china-18.jpg
 gallery:
   - /assets/images/film/china-01.jpg
-  - /assets/images/film/china-02.jpg
+  - /assets/images/film/china-05.jpg
   - /assets/images/film/china-03.jpg
   - /assets/images/film/china-04.jpg
-  - /assets/images/film/china-05.jpg
+  - /assets/images/film/china-02.jpg
   - /assets/images/film/china-06.jpg
   - /assets/images/film/china-07.jpg
   - /assets/images/film/china-08.jpg
@@ -22,7 +22,7 @@ gallery:
   - /assets/images/film/china-16.jpg
   - /assets/images/film/china-17.jpg
   - /assets/images/film/china-18.jpg
-  - /assets/images/film/china-19.jpg
+  - /assets/images/film/china-31.jpg
   - /assets/images/film/china-20.jpg
   - /assets/images/film/china-21.jpg
   - /assets/images/film/china-22.jpg
@@ -34,7 +34,7 @@ gallery:
   - /assets/images/film/china-28.jpg
   - /assets/images/film/china-29.jpg
   - /assets/images/film/china-30.jpg
-  - /assets/images/film/china-31.jpg
+  - /assets/images/film/china-19.jpg
   - /assets/images/film/china-32.jpg
   - /assets/images/film/china-33.jpg
   - /assets/images/film/china-34.jpg
