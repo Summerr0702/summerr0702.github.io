@@ -4,7 +4,15 @@ title: "Film"
 permalink: /film/
 ---
 
+<style>
+.collection-grid { … }
+.collection-grid__item { … }
+.collection-grid__item img { … }
+.collection-grid__label { … }
+</style>
+
 {% assign groups = site.film | group_by: "region" %}
+<div class="collection-grid"> … </div
 
 <div class="collection-grid">
   {% for group in groups %}
