@@ -5,10 +5,6 @@ permalink: /film/
 author_profile: true    
 ---
 
-<a class="back-btn" href="/film/" title="Back to Film">
-  <i class="fas fa-arrow-left"></i>
-</a>
-
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap");
 
@@ -71,26 +67,6 @@ h1.page__title{
 
 .collection-grid{
   margin-top:-0.3rem;  
-}
-
-/* ——— 悬浮返回按钮 ——— */
-.back-btn{
-  position:fixed;
-  top:1rem; left:1rem;     /* ↖ 你想放右上就改 right:1rem; left:auto; */
-  z-index:1000;            /* 避免被图片遮挡 */
-  width:40px; height:40px;
-  border-radius:50%;
-  background:#fff;
-  border:1px solid #ddd;
-  display:flex; align-items:center; justify-content:center;
-  color:#333; text-decoration:none;
-  box-shadow:0 2px 6px rgba(0,0,0,.15);
-  transition:transform .2s ease, background .2s ease;
-}
-
-.back-btn:hover{
-  background:#f5f5f5;
-  transform:scale(1.08);
 }
 </style>
 
