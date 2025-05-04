@@ -21,11 +21,11 @@ gallery:
   - /assets/images/film/china-15.jpg
   - /assets/images/film/china-16.jpg
   - /assets/images/film/china-17.jpg
-  - /assets/images/film/china-18.jpg
+  - /assets/images/film/china-22.jpg
   - /assets/images/film/china-26.jpg
   - /assets/images/film/china-20.jpg
   - /assets/images/film/china-21.jpg
-  - /assets/images/film/china-22.jpg
+  - /assets/images/film/china-18.jpg
   - /assets/images/film/china-23.jpg
   - /assets/images/film/china-24.jpg
   - /assets/images/film/china-25.jpg
