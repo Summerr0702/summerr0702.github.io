@@ -9,12 +9,12 @@ gallery:
   - /assets/images/film/china-03.jpg
   - /assets/images/film/china-04.jpg
   - /assets/images/film/china-02.jpg
-  - /assets/images/film/china-06.jpg
+  - /assets/images/film/china-11.jpg
   - /assets/images/film/china-07.jpg
   - /assets/images/film/china-08.jpg
   - /assets/images/film/china-09.jpg
   - /assets/images/film/china-10.jpg
-  - /assets/images/film/china-11.jpg
+  - /assets/images/film/china-06.jpg
   - /assets/images/film/china-12.jpg
   - /assets/images/film/china-13.jpg
   - /assets/images/film/china-14.jpg
