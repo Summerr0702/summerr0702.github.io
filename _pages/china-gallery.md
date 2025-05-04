@@ -42,13 +42,14 @@ author_profile: false
 
 /* —— 调整弹窗留白 —— */
 .glightbox-container{
-  padding:8vh 10vw !important;   /* 上下 8% 视口高；左右 10% 视口宽 */
   background:rgba(0,0,0,.55)!important;   /* 0.55 越小越透，可改 0.4~0.7 */
 }
 
 .gslide-media{
-  max-width:60vw !important;     /* 图片最大 60% 视口宽 */
-  max-height:65vh !important;    /* 图片最大 65% 视口高 */
+  max-width:60vw !important;   /* 你喜欢的宽度 */
+  max-height:65vh !important;  /* 你喜欢的高度 */
+  border-radius:8px;
+  box-shadow:0 10px 24px rgba(0,0,0,.35);
 }
 </style>
 
