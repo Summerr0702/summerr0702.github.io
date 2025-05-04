@@ -1,5 +1,5 @@
 ---
-title: "【黑兜里遛狗记02】在东京还发生了什么事？"
+title: "【黑兜里遛狗记02】First View of Tokyo"
 excerpt_separator: "<!--more-->"
 categories:
   - Travel
