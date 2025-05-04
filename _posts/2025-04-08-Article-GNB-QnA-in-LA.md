@@ -74,3 +74,15 @@ Q&A session结束后，就是签名环节～ 峯田一上来就问我是不是�
   <br>
   <em>和Mineta的合照QAQ</em>
 </p>
+
+<p align="center">
+  <img src="/assets/images/20250408-01.jpg" alt="在Door上的签名，我说这是我最喜欢的一张专辑" width="70%">
+  <br>
+  <em>在Door上的签名，我说这是我最喜欢的一张专辑</em>
+</p>
+
+<p align="center">
+  <img src="/assets/images/20250408-03.jpg" alt="Blew Blue的签名" width="70%">
+  <br>
+  <em>Blew Blue的签名</em>
+</p>
