@@ -31,7 +31,7 @@ gallery:
   - /assets/images/film/china-25.jpg
   - /assets/images/film/china-26.jpg
   - /assets/images/film/china-27.jpg
-  - /assets/images/film/china-28.jpg
+  - /assets/images/film/china-43.jpg
   - /assets/images/film/china-29.jpg
   - /assets/images/film/china-30.jpg
   - /assets/images/film/china-19.jpg
@@ -46,7 +46,7 @@ gallery:
   - /assets/images/film/china-40.jpg
   - /assets/images/film/china-41.jpg
   - /assets/images/film/china-42.jpg
-  - /assets/images/film/china-43.jpg
+  - /assets/images/film/china-28.jpg
   - /assets/images/film/china-44.jpg
   - /assets/images/film/china-45.jpg
   - /assets/images/film/china-46.jpg
