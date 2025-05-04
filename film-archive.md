@@ -62,7 +62,7 @@ author_profile: true
 }
 
 .collection-grid{
-  margin-top:.4rem;  
+  margin-top:.1rem;  
 }
 </style>
 
