@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: gallery
 title: "Film ‑ China"
 permalink: /film/china/
 author_profile: true
