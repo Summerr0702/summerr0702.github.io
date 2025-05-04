@@ -37,4 +37,13 @@ gallery:
   - /assets/images/film/china-31.jpg
   - /assets/images/film/china-32.jpg
   - /assets/images/film/china-33.jpg
+  - /assets/images/film/china-34.jpg
+  - /assets/images/film/china-35.jpg
+  - /assets/images/film/china-36.jpg
+  - /assets/images/film/china-37.jpg
+  - /assets/images/film/china-38.jpg
+  - /assets/images/film/china-39.jpg
+  - /assets/images/film/china-40.jpg
+  - /assets/images/film/china-41.jpg
+  - /assets/images/film/china-42.jpg
 ---
