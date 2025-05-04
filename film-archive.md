@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Film"
+title:  "Film Collection"
 permalink: /film/
 author_profile: true    
 ---
