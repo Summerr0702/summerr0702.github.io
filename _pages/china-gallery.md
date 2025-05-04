@@ -51,6 +51,13 @@ author_profile: false
   border-radius:8px;
   box-shadow:0 10px 24px rgba(0,0,0,.35);
 }
+
+.ginner{                      /* ginner 是 GLightbox 的最里层容器 */
+  display:flex !important;    /* 改成 Flex */
+  align-items:center !important;  /* 垂直居中 */
+  justify-content:center !important; /* 水平居中 */
+  height:100%; width:100%;    /* 占满弹窗，保证居中参考系 */
+}
 </style>
 
 {% comment %}
