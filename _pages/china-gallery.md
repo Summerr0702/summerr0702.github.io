@@ -58,6 +58,12 @@ author_profile: false
   justify-content:center !important; /* 水平居中 */
   height:100%; width:100%;    /* 占满弹窗，保证居中参考系 */
 }
+
+.gslide-inner{
+  display:flex !important;
+  align-items:center !important;     /* 垂直居中 */
+  justify-content:center !important; /* 水平居中 */
+}
 </style>
 
 {% comment %}
