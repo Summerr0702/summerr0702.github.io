@@ -1,9 +1,13 @@
 ---
-layout: page               # 用最简 page 模板
+layout: page  
 title:  "Film - China"
 permalink: /film/china/
-author_profile: false       # 不要侧栏
+author_profile: false 
 ---
+
+<a class="back-btn" href="/film/" title="Back to Film">
+  <i class="fas fa-arrow-left"></i>
+</a>
 
 <style>
 /* ======== ①　只在本页隐藏全局框架 ======== */
@@ -39,6 +43,25 @@ author_profile: false       # 不要侧栏
 .masonry__item:hover img{
   transform:scale(1.04);
   box-shadow:0 8px 16px rgba(0,0,0,.25);
+}
+
+.back-btn{
+  position:fixed;
+  top:1rem; left:1rem;     /* ↖ 你想放右上就改 right:1rem; left:auto; */
+  z-index:1000;            /* 避免被图片遮挡 */
+  width:40px; height:40px;
+  border-radius:50%;
+  background:#fff;
+  border:1px solid #ddd;
+  display:flex; align-items:center; justify-content:center;
+  color:#333; text-decoration:none;
+  box-shadow:0 2px 6px rgba(0,0,0,.15);
+  transition:transform .2s ease, background .2s ease;
+}
+
+.back-btn:hover{
+  background:#f5f5f5;
+  transform:scale(1.08);
 }
 </style>
 
