@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Film"
+layout: single
+title:  "Film"
 permalink: /film/
+author_profile: true    
 ---
 
 <style>
