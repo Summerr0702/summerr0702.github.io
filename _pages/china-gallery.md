@@ -46,7 +46,7 @@ author_profile: false
 }
 
 .mfp-img{
-  max-width:70vw;                 /* 弹窗最大宽度 = 70% 视口宽 */
+  max-width:50vw;                 /* 弹窗最大宽度 = 70% 视口宽 */
   max-height:75vh;                /* 最大高度 = 75% 视口高 */
   border-radius:8px;
   box-shadow:0 10px 24px rgba(0,0,0,.35);
