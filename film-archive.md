@@ -21,6 +21,10 @@ author_profile: true
   color:inherit;
   display:block;
 }
+
+h1.page__title{
+  margin-bottom:.3rem;   /* 原来≈11px → 现在≈5px，可按喜好再调 */
+}
   
 /* ——— figure 覆盖文字 ——— */
 .collection-grid__figure{
