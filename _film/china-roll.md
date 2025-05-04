@@ -2,7 +2,7 @@
 layout: gallery
 title: "China"
 region: China  
-image: /assets/images/film/china-01.jpg
+image: /assets/images/film/china-18.jpg
 gallery:
   - /assets/images/film/china-01.jpg
   - /assets/images/film/china-02.jpg
