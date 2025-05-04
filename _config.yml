@@ -105,6 +105,11 @@ defaults:
       layout: single
       author_profile: true
 
+collections:
+  Film:
+    output: true
+    permalink: /film/:path/
+
 category_archive:
   type: liquid
   path: /categories/
