@@ -39,25 +39,6 @@ author_profile: false
   transition:transform .2s,background .2s;
 }
 .back-btn:hover{background:#f5f5f5;transform:scale(1.08);}
-
-/* ========= 仅限本页的 Magnific Popup 尺寸 ========== */
-.mfp-container{
-  padding-top:5vh;                /* 上方留白，弹窗往下错一点更像对话框 */
-}
-
-.mfp-img{
-  max-width:50vw;                 /* 弹窗最大宽度 = 70% 视口宽 */
-  max-height:75vh;                /* 最大高度 = 75% 视口高 */
-  border-radius:8px;
-  box-shadow:0 10px 24px rgba(0,0,0,.35);
-  background:#fff;                /* 万一图片有透明区域，底色依旧是白的 */
-}
-
-/* 可选：让左右切换箭头更靠近图片 */
-.mfp-arrow{
-  transform:scale(.8);            /* 箭头缩小一点 */
-  margin-top:-40px;               /* 垂直位置随图片居中 */
-}
 </style>
 
 {% comment %}
@@ -78,3 +59,20 @@ author_profile: false
   </div>
 {% endfor %}
 </div>
+
+<!-- ===== 轻量 GLightbox ===== -->
+<link rel="stylesheet" href="https://unpkg.com/glightbox/dist/css/glightbox.min.css">
+<script src="https://unpkg.com/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+/* 初始化：所有 Masonry 里的 <a> 都进 Lightbox */
+document.addEventListener('DOMContentLoaded', () => {
+  GLightbox({
+    selector: '.masonry__item a',
+    touchNavigation: true,
+    loop: true,
+    zoomable: false,          // 不要滚轮缩放
+    width: '70vw', height: '75vh',  // 和你前面想要的“弹窗”尺寸一致
+    slideEffect: 'zoom'
+  });
+});
+</script>
