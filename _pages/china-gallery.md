@@ -39,6 +39,11 @@ author_profile: false
   transition:transform .25s ease, box-shadow .25s ease;
 }
 
+.masonry__item a{
+  text-decoration:none;
+  color:inherit;
+}
+
 /* Hover：微放大 + 阴影 */
 .masonry__item:hover img{
   transform:scale(1.04);
@@ -65,19 +70,12 @@ author_profile: false
 }
 </style>
 
-{% comment %}
-  把所有 region == "China" 的 _film 条目抓出来并汇总图片
-{% endcomment %}
-{% assign rolls = site.film | where:"region","China" %}
-{% assign imgs  = "" | split:"" %}
-{% for r in rolls %}
-  {% assign imgs = imgs | concat:r.gallery %}
-{% endfor %}
-
-<div class="masonry">
-  {% for img in imgs %}
-    <div class="masonry__item">
+<div class="masonry js-gallery">         {# ← 多加了 js-gallery #}
+{% for img in imgs %}
+  <div class="masonry__item">
+    <a href="{{ img | relative_url }}"   title="click to enlarge">
       <img src="{{ img | relative_url }}" alt="China film">
-    </div>
-  {% endfor %}
+    </a>
+  </div>
+{% endfor %}
 </div>
