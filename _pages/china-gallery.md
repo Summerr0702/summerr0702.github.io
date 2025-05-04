@@ -39,6 +39,16 @@ author_profile: false
   transition:transform .2s,background .2s;
 }
 .back-btn:hover{background:#f5f5f5;transform:scale(1.08);}
+
+/* —— 调整弹窗留白 —— */
+.glightbox-container{
+  padding:8vh 10vw !important;   /* 上下 8% 视口高；左右 10% 视口宽 */
+}
+
+.gslide-media{
+  max-width:60vw !important;     /* 图片最大 60% 视口宽 */
+  max-height:65vh !important;    /* 图片最大 65% 视口高 */
+}
 </style>
 
 {% comment %}
