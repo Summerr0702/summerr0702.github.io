@@ -58,7 +58,7 @@ Q：Going steady和銀杏BOYZ的所有歌曲中，你最喜欢的是哪一首？
 Q：how was it singing with 菅田将晖？（提问者是个络腮胡棕皮肤大哥，很有反差感）<br>
 峯田：he’s the best! 你知道菅田将晖？（大哥：from 假面骑士😅）我和苏打曾经一起在东京泡温泉，naked，his body is so beautiful （我真的要笑晕了……
 
- Q：在美国表演和在日本表演有什么区别吗？（提问者是个香港男孩！）<br> 峯田：没有区别，但是日本观众比较安静，但美国观众go crazy even on quiet songs（我深有感触🙂 <br>
+ Q：在美国表演和在日本表演有什么区别吗？（提问者是个香港男孩！）<br> 峯田：没有区别，但是日本观众比较安静，但美国观众go crazy even on quiet songs（我深有感触 <br>
  后来峯田追问他有没有去过日本，男孩说他去过赤坂，Mineta说他家就在赤坂，那里有很多中餐厅，please don’t come to my home（好可爱QAQ
 
 能记住的大概就这么多了…还有些零碎的回忆，比如他给我们展示他的膝盖，满是碰撞后的淤青，是他疯狂舞台的痕迹。还有一位喜欢他十多年的外国粉丝问他会不会考虑重唱一下going steady的歌，他说也许会的，times go around。最后有人问XX桑怎么样了？Mineta说he's dead然后全场大笑，好想知道在说谁（但我完全没听懂那个日文名字…
