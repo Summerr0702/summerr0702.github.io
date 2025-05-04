@@ -1,0 +1,8 @@
+---
+layout: gallery
+title: "Hong Kong"
+region: Hong Kong  
+image: /assets/images/film/hongkong-01.jpg
+gallery:
+  - /assets/images/film/hongkong-01.jpg
+---
