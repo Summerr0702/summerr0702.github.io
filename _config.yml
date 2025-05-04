@@ -106,7 +106,7 @@ defaults:
       author_profile: true
 
 collections:
-  Film:
+  film:
     output: true
     permalink: /film/:path/
 
