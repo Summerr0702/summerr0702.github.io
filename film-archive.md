@@ -62,7 +62,7 @@ author_profile: true
 }
 
 .collection-grid{
-  margin-top:.6rem;     /* 原来是 1.8rem → 改成 .8rem */
+  margin-top:.4rem;  
 }
 </style>
 
