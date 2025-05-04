@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: "China"
+region: China  
 image: /assets/images/film/roll-01-01.jpg
 gallery:
   - /assets/images/film/roll-01-01.jpg
