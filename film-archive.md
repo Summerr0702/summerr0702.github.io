@@ -12,7 +12,7 @@ author_profile: true
 .collection-grid{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
-  row-gap:-1rem;   
+  row-gap:-2rem;   
   column-gap:1.4rem; 
   margin:-0.5rem 0;
 }
@@ -24,7 +24,7 @@ author_profile: true
 }
 
 h1.page__title{
-  margin-bottom:.3rem;   /* 原来≈11px → 现在≈5px，可按喜好再调 */
+  margin-bottom:.3rem; 
 }
   
 /* ——— figure 覆盖文字 ——— */
@@ -33,6 +33,7 @@ h1.page__title{
   overflow:hidden;
   border-radius:8px;
   transition:transform .25s ease;
+  margin:0;  
 }
 
 .collection-grid__figure img{
