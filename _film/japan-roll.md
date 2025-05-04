@@ -24,4 +24,5 @@ gallery:
   - /assets/images/film/japan-18.jpg
   - /assets/images/film/japan-19.jpg
   - /assets/images/film/japan-20.jpg
+  - /assets/images/film/japan-21.jpg
 ---
