@@ -23,7 +23,7 @@ minimal_mistakes_skin: default
 search: true
 
 search:
-  excerpt: false
+  excerpt: true
   
 # Build settings
 markdown: kramdown
