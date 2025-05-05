@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Journal"
     url: /journal/
-   - title: "Travel"
+  - title: "Travel"
     url: /travel/
   - title: "Film"
     url: /film/
