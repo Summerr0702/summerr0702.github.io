@@ -11,7 +11,7 @@ author_profile: true
 /* ===== Film 首页网格 ===== */
 .collection-grid{
   display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(200px,1fr));  
+  grid-template-columns:repeat(auto-fill,minmax(240px,1fr));  
   column-gap:0.8rem; 
   margin:0.1rem 0;
 }
