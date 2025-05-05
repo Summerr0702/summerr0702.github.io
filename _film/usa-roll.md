@@ -14,14 +14,14 @@ gallery:
   - /assets/images/film/usa-03.jpg
   - /assets/images/film/usa-04.jpg
   - /assets/images/film/usa-05.jpg
-  - /assets/images/film/usa-06.jpg
   - /assets/images/film/usa-07.jpg
+  - /assets/images/film/usa-06.jpg
   - /assets/images/film/usa-08.jpg
   - /assets/images/film/usa-09.jpg
-  - /assets/images/film/usa-10.jpg
   - /assets/images/film/usa-11.jpg
   - /assets/images/film/usa-12.jpg
   - /assets/images/film/usa-13.jpg
+  - /assets/images/film/usa-10.jpg
   - /assets/images/film/usa-14.jpg
   - /assets/images/film/usa-15.jpg
 ---
