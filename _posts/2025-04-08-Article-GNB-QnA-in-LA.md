@@ -2,8 +2,6 @@
 title: "【銀杏BOYZ】美巡LA站 Q&A session @Going Underground Records"
 excerpt: >
   近距离接触的峯田看上去非常温柔真诚，有些腼腆，和舞台上的他是截然相反的形象。我依然保留我对他的印象：爱穿老头汗衫的少女偶像，永远青春期的男高中生。
-categories:
-  - Music
 tags:
   - Los Angeles
   - 音乐笔记
