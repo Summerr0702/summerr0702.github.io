@@ -1,16 +1,9 @@
-{% comment %}
-重写默认的搜索结果 include，去掉 preview 段落，只渲染 title 和 URL
-{% endcomment %}
-{% if site.search.results and site.search.results.size > 0 %}
-  <ul class="search-results">
-    {% for item in site.search.results %}
-      <li class="search-result">
-        <a class="search-result__link" href="{{ item.url | relative_url }}">
-          {{ item.title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-{% else %}
-  <p>No results found</p>
-{% endif %}
+<ul class="search-results">
+  {% for item in site.search.results %}
+    <li class="search-result">
+      <a class="search-result__link" href="{{ item.url | relative_url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
