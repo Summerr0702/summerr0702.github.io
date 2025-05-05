@@ -1,10 +1,10 @@
 main:
   - title: "Articles"
     url: /posts/
-  - title: "Travel"
+  - title: "Journal"
+    url: /journal/
+    - title: "Travel"
     url: /travel/
-  - title: "Article"
-    url: /article/
   - title: "Film"
     url: /film/
   - title: "About"
