@@ -13,7 +13,7 @@ author_profile: true
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(220px,1fr));  
   column-gap:0.8rem; 
-  max-width: 1200px;  
+  max-width: 1400px;  
   margin:0.1rem 0;
 }
 
