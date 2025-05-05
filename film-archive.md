@@ -11,8 +11,11 @@ author_profile: true
 /* ===== Film 首页网格 ===== */
 .collection-grid{
   display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(200px,1fr));  
-  column-gap:0.8rem;   
+  grid-template-columns:repeat(3, minmax(0, 1fr)); /* ← 重点 */
+  gap:.8rem;               /* 间距不变 */
+  max-width:100%;          /* 宽度给满，中间留白由页面内边距决定 */
+  margin:.1rem 0;
+}
   margin:0.1rem 0;
 }
 
