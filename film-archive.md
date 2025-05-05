@@ -12,7 +12,7 @@ author_profile: true
 .collection-grid{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(160px,1fr));  
-  column-gap:0.9rem; 
+  column-gap:0.8rem; 
   margin:0.1rem 0;
 }
 
