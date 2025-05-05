@@ -1,6 +1,6 @@
 ---
-title: "Article"
-permalink: /article/
+title: "Journal"
+permalink: /journal/
 layout: tags
 author_profile: true
 ---
