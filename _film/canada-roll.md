@@ -26,8 +26,8 @@ gallery:
   - /assets/images/film/canada-15.jpg
   - /assets/images/film/canada-16.jpg
   - /assets/images/film/canada-17.jpg
-  - /assets/images/film/canada-32.jpg
-  - /assets/images/film/canada-33.jpg
+  - /assets/images/film/canada-27.jpg
+  - /assets/images/film/canada-30.jpg
   - /assets/images/film/canada-34.jpg
   - /assets/images/film/canada-21.jpg
   - /assets/images/film/canada-22.jpg
@@ -35,10 +35,10 @@ gallery:
   - /assets/images/film/canada-24.jpg
   - /assets/images/film/canada-25.jpg
   - /assets/images/film/canada-26.jpg
-  - /assets/images/film/canada-27.jpg
+  - /assets/images/film/canada-32.jpg
   - /assets/images/film/canada-28.jpg
   - /assets/images/film/canada-29.jpg
-  - /assets/images/film/canada-30.jpg
+  - /assets/images/film/canada-33.jpg
   - /assets/images/film/canada-31.jpg
   - /assets/images/film/canada-18.jpg
   - /assets/images/film/canada-19.jpg
