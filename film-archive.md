@@ -8,9 +8,8 @@ author_profile: true
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap");
 
-.page.layout--single .page__content,
-.page.layout--single .page__inner-wrap{
-  max-width:1100px;   /* 想再大就 1200 / 1300… */
+.page__inner-wrap{
+  max-width:1100px !important;
 }
 
 .collection-grid{
