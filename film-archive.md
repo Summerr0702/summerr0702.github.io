@@ -72,16 +72,16 @@ h1.page__title{
 
 {% assign groups = site.film | group_by: "region" %}
 <div class="collection-grid">
-{% for group in groups %}
-  {% assign region = group.name %}
-  {% assign thumb  = group.items[0].image %}
-  <div class="collection-grid__item">
-    <a href="{{ '/film/' | append: region | downcase | append: '/' | relative_url }}">
-      <figure class="collection-grid__figure">
-        <img src="{{ thumb | relative_url }}" alt="{{ region }}">
-        <figcaption class="collection-grid__caption">{{ region }}</figcaption>
-      </figure>
-    </a>
-  </div>
-{% endfor %}
+  {% for group in groups %}
+    {% assign region = group.name %}
+    {% assign thumb  = group.items[0].image %}
+    <div class="collection-grid__item">
+      <a href="{{ '/film/' | append: region | remove: ' ' | downcase | append: '/' | relative_url }}">
+        <figure class="collection-grid__figure">
+          <img src="{{ thumb | relative_url }}" alt="{{ region }}">
+          <figcaption class="collection-grid__caption">{{ region }}</figcaption>
+        </figure>
+      </a>
+    </div>
+  {% endfor %}
 </div>
