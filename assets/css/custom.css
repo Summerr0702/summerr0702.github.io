@@ -21,3 +21,7 @@
   font-family: "Lora", "Noto Serif SC",
                "PingFang SC", "Microsoft YaHei", serif !important;
 }
+
+/* 隐藏所有搜索结果的内容预览 */
+.search-content .archive__item-excerpt {
+  display: none !important;
