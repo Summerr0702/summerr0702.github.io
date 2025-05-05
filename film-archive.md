@@ -23,7 +23,7 @@ author_profile: true
 }
 
 h1.page__title{
-  margin-bottom:.3rem; 
+  margin-bottom:.8rem; 
 }
   
 /* ——— figure 覆盖文字 ——— */
