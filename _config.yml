@@ -112,7 +112,6 @@ remote_theme: mmistakes/minimal-mistakes
 collections:
   film:
     output: true
-    permalink: /film/:path/
 
 custom_css:
   - /assets/css/custom.css
