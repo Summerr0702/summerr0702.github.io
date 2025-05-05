@@ -3,7 +3,6 @@ layout: gallery
 title: "Canada"                 
 region: Canada                  
 image: /assets/images/film/canada-02.jpg
-permalink: /film/canada/
 gallery:
   - /assets/images/film/canada-01.jpg
   - /assets/images/film/canada-02.jpg
