@@ -10,7 +10,7 @@ author_profile: true
 
 body.layout--single .page__content,
 body.layout--single .page__inner-wrap{
-  max-width:1100px !important;   /* 想再大就 1200 / 1300 … */
+  max-width:1300px !important;   /* 想再大就 1200 / 1300 … */
 }
 
 .collection-grid{
