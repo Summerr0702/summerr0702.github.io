@@ -44,7 +44,6 @@ gallery:
   - /assets/images/film/canada-19.jpg
   - /assets/images/film/canada-20.jpg
   - /assets/images/film/canada-35.jpg
-  - /assets/images/film/canada-36.jpg
   - /assets/images/film/canada-37.jpg
   - /assets/images/film/canada-38.jpg
   - /assets/images/film/canada-39.jpg
@@ -53,6 +52,7 @@ gallery:
   - /assets/images/film/canada-42.jpg
   - /assets/images/film/canada-43.jpg
   - /assets/images/film/canada-44.jpg
+  - /assets/images/film/canada-36.jpg
   - /assets/images/film/canada-45.jpg
   - /assets/images/film/canada-46.jpg
   - /assets/images/film/canada-47.jpg
