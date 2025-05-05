@@ -3,8 +3,8 @@ main:
     url: /posts/
   - title: "Travel"
     url: /travel/
-  - title: "Tags"
-    url: /tags/
+  - title: "Article"
+    url: /article/
   - title: "Film"
     url: /film/
   - title: "About"
