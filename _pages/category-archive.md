@@ -1,6 +1,6 @@
 ---
-title: "Articles by Category"
+title: "Travel"
 layout: categories
-permalink: /categories/
+permalink: /travel/
 author_profile: true
 ---
