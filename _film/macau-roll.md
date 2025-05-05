@@ -1,8 +1,13 @@
 ---
-layout: gallery
-title: "Macau"                 
-region: Macau                  
-image: /assets/images/film/macau-01.jpg   
+layout: page 
+title: "Macau"
+region: Macau
+author_profile: false
+image: /assets/images/film/macau-01.jpg
+permalink: /film/macau/
+search: true
+redirect_from:
+  - /film/macau-roll/     
 gallery:
   - /assets/images/film/macau-01.jpg
   - /assets/images/film/macau-02.jpg
