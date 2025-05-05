@@ -10,11 +10,11 @@ author_profile: true
 
 .collection-grid{
   display:grid;
-  grid-template-columns:repeat(3, minmax(0, 1fr));
-  gap:.8rem 1rem;     /* 行 .8rem，列 1rem */
-  margin:1rem 0;
+  grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));
+  column-gap:.8rem;
+  margin:.1rem 0;
 }
-
+  
 .collection-grid__item a{
   text-decoration:none;
   color:inherit;
