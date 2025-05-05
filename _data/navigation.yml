@@ -1,8 +1,8 @@
 main:
   - title: "Articles"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Travel"
+    url: /travel/
   - title: "Tags"
     url: /tags/
   - title: "Film"
