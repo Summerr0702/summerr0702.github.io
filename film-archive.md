@@ -12,7 +12,7 @@ author_profile: true
 .collection-grid{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(160px,1fr));  
-  column-gap:1.1rem; 
+  column-gap:1rem; 
   margin:0.1rem 0;
 }
 
@@ -23,7 +23,7 @@ author_profile: true
 }
 
 h1.page__title{
-  margin-bottom:.8rem; 
+  margin-bottom:.9rem; 
 }
   
 /* ——— figure 覆盖文字 ——— */
