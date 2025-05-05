@@ -3,6 +3,7 @@ layout: page
 title:  "Film - Canada"
 permalink: /film/canada/
 author_profile: false
+search: true
 ---
 
 <!-- 悬浮返回按钮 -->
