@@ -1,6 +1,6 @@
 ---
 title: "【銀杏BOYZ】美巡LA站 Q&A session @Going Underground Records"
-excerpt_separator: "<!--more-->"
+excerpt_separator: ""
 categories:
   - Music
 tags:
@@ -39,8 +39,6 @@ last_modified_at: 2025-04-08 20:00:00 -0400
 </a>
 
 演出结束后有一个15分钟左右的迷你Q&A session，峯田很真诚地回答了很多问题。在此存档一下～
-
-<!--more-->
 
 Q: 你对音乐的最初印象是什么<br>
 峯田：我的爸爸喜欢披头士，在我童年的时候，我们家里全部都是披头士的音乐。但当我十五岁的时候，我的朋友给了我一张CD，是Nirvana的Never Mind，他说Mineta听听这个（然后峯田还唱了两句smells like teen spirit QAQ）。oh my, it changed my life.
