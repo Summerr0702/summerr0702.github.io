@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="page__content">
+  <h1>Travel</h1>
+
+  <ul>
+    {% for post in site.posts %}
+      {% if post.categories contains "travel" %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <p>{{ post.excerpt }}</p>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
