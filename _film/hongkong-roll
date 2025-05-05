@@ -1,8 +1,13 @@
 ---
-layout: gallery
+layout: page                # 或者你想用的 layout
 title: "Hong Kong"
-region: Hong Kong  
+region: Hong Kong
+author_profile: false
 image: /assets/images/film/hongkong-01.jpg
+permalink: /film/hongkong/
+search: true
+redirect_from:
+  - /film/hongkong-roll/
 gallery:
   - /assets/images/film/hongkong-01.jpg
 ---
