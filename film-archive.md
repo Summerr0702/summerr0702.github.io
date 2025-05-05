@@ -8,13 +8,17 @@ author_profile: true
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap");
 
-/* ===== Film 首页网格 ===== */
+.page.layout--single .page__content,
+.page.layout--single .page__inner-wrap{
+  max-width:1100px;   /* 想再大就 1200 / 1300… */
+}
+
 .collection-grid{
   display:grid;
-  grid-template-columns:repeat(3, minmax(0, 1fr)); /* ← 重点 */
-  gap:.8rem;               /* 间距不变 */
-  max-width:100%;          /* 宽度给满，中间留白由页面内边距决定 */
-  margin:.1rem 0;
+  grid-template-columns:repeat(3, minmax(0, 1fr));
+  gap:.8rem 1rem;     /* 行 .8rem，列 1rem */
+  max-width:100%;     /* 宽度跟随正文容器 */
+  margin:1rem 0;
 }
 
 .collection-grid__item a{
