@@ -86,7 +86,7 @@ atom_feed:
   path: ""
 
 defaults:
-  # _posts
+  # posts
   - scope:
       path: ""
       type: posts
@@ -97,9 +97,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+
+  # pages (包括所有非-posts 的页面)
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       search: true
