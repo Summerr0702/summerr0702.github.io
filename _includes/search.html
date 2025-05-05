@@ -1,9 +1,16 @@
-<ul class="search-results">
-  {% for item in site.search.results %}
-    <li class="search-result">
-      <a class="search-result__link" href="{{ item.url | relative_url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+{% comment %}
+Minimal Mistakes 搜索结果定制模板 —— 仅显示标题
+{% endcomment %}
+{% if site.search.results and site.search.results.size > 0 %}
+  <ul class="search-results">
+    {% for item in site.search.results %}
+      <li class="search-result">
+        <a class="search-result__link" href="{{ item.url | relative_url }}">
+          {{ item.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No results found.</p>
+{% endif %}
