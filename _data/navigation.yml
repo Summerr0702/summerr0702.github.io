@@ -9,5 +9,3 @@ main:
     url: /film/
   - title: "About"
     url: /about/
-  - title: "Travel"
-    url: /travel/
