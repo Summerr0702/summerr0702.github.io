@@ -1,8 +1,13 @@
 ---
-layout: gallery
-title: "Japan"                 
-region: Japan                  
-image: /assets/images/film/japan-03.jpg   
+layout: page 
+title: "Japan"
+region: Japan
+author_profile: false
+image: /assets/images/film/japan-03.jpg
+permalink: /film/japan/
+search: true
+redirect_from:
+  - /film/japan-roll/   
 gallery:
   - /assets/images/film/japan-01.jpg
   - /assets/images/film/japan-02.jpg
