@@ -23,7 +23,7 @@ author_profile: true
 }
 
 h1.page__title{
-  margin-bottom:.9rem; 
+  margin-bottom:1rem; 
 }
   
 /* ——— figure 覆盖文字 ——— */
@@ -32,7 +32,7 @@ h1.page__title{
   overflow:hidden;
   border-radius:8px;
   transition:transform .25s ease;
-  margin:0.8rem;  
+  margin:0.9rem;  
 }
 
 .collection-grid__figure img{
