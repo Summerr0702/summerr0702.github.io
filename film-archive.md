@@ -16,8 +16,6 @@ author_profile: true
   max-width:100%;          /* 宽度给满，中间留白由页面内边距决定 */
   margin:.1rem 0;
 }
-  margin:0.1rem 0;
-}
 
 .collection-grid__item a{
   text-decoration:none;
