@@ -35,8 +35,8 @@ gallery:
   - /assets/images/film/macau-31.jpg
   - /assets/images/film/macau-32.jpg
   - /assets/images/film/macau-43.jpg
-  - /assets/images/film/macau-34.jpg
-  - /assets/images/film/macau-19.jpg
+  - /assets/images/film/macau-71.jpg
+  - /assets/images/film/macau-72.jpg
   - /assets/images/film/macau-18.jpg
   - /assets/images/film/macau-20.jpg
   - /assets/images/film/macau-37.jpg
@@ -73,8 +73,8 @@ gallery:
   - /assets/images/film/macau-38.jpg
   - /assets/images/film/macau-78.jpg
   - /assets/images/film/macau-70.jpg
-  - /assets/images/film/macau-71.jpg
-  - /assets/images/film/macau-72.jpg
+  - /assets/images/film/macau-34.jpg
+  - /assets/images/film/macau-19.jpg
   - /assets/images/film/macau-73.jpg
   - /assets/images/film/macau-74.jpg
   - /assets/images/film/macau-08.jpg
