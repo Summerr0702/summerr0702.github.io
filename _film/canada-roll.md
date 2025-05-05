@@ -2,8 +2,7 @@
 layout: gallery
 title: "Canada"                 
 region: Canada                  
-image: /assets/images/film/canada-02.jpg
-search: false  
+image: /assets/images/film/canada-02.jpg 
 gallery:
   - /assets/images/film/canada-01.jpg
   - /assets/images/film/canada-02.jpg
