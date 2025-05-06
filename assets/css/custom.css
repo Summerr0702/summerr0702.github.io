@@ -24,18 +24,3 @@
 
 .search-content .archive__item-excerpt {
   display: none !important;
-
-// 缩小 overlay 横幅图上的标题和正文文字
-.page__hero--overlay .page__title {
-  font-size: 1rem;       // 主标题字体（原本是 3.5~4rem）
-  line-height: 1.2;
-  font-weight: 600;
-}
-
-.page__hero--overlay .page__lead {
-  font-size: 0.6rem;       // 副标题字体
-  line-height: 1.3;
-  font-weight: 400;
-  max-width: 40rem;
-  margin: 1rem auto 0 auto;
-}
