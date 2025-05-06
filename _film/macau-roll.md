@@ -110,6 +110,7 @@ gallery:
   - /assets/images/film/macau-99.jpg
   - /assets/images/film/macau-100.jpg
   - /assets/images/film/macau-101.jpg
+  - /assets/images/film/macau-102.jpg
   - /assets/images/film/macau-103.jpg
   - /assets/images/film/macau-104.jpg
   - /assets/images/film/macau-105.jpg
