@@ -25,15 +25,15 @@
 .search-content .archive__item-excerpt {
   display: none !important;
 
-.hero__content .page__title {
-  font-size: 2rem !important;       /* 主标题缩小 */
+.page__hero--overlay .page__title {
+  font-size: 2rem !important;
   line-height: 1.3 !important;
   font-weight: 600 !important;
   font-family: "Lora", "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif !important;
 }
 
-.hero__content .page__lead {
-  font-size: 1rem !important;       /* 副标题缩小 */
+.page__hero--overlay .page__lead {
+  font-size: 1rem !important;
   line-height: 1.6 !important;
   font-weight: 400 !important;
   max-width: 40rem !important;
