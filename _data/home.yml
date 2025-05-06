@@ -1,0 +1,18 @@
+photography:
+  - image_path: /assets/images/hydrangea-blue.jpg
+    alt: "Hydrangea in bloom"
+    title: "Hydrangea Blue"
+    excerpt: "A glimpse of calmness I captured in early summer."
+    url: /photography/hydrangea-blue/
+
+  - image_path: /assets/images/tokyo-night.jpg
+    alt: "Tokyo at dusk"
+    title: "Tokyo in Dusk"
+    excerpt: "Lights, shadows, and the quiet rhythm of the city."
+    url: /photography/tokyo-dusk/
+
+  - image_path: /assets/images/green-corner.jpg
+    alt: "A leafy nook"
+    title: "A Leafy Corner"
+    excerpt: "Where peace and light meet in green."
+    url: /photography/leafy-corner/
