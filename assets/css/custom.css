@@ -25,16 +25,19 @@
 .search-content .archive__item-excerpt {
   display: none !important;
 
-.page__title {
+.page__hero--overlay .page__title {
   font-size: 2rem !important;
-  font-weight: 500 !important;
-  line-height: 1.3 !important;
+  font-weight: 600 !important;
   font-family: "Lora", "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif !important;
+  line-height: 1.2 !important;
 }
 
-.page__lead {
+/* 首页横图副标题（段落文字） */
+.page__hero--overlay .page__lead {
   font-size: 1rem !important;
-  line-height: 1.6 !important;
   font-weight: 400 !important;
+  line-height: 1.6 !important;
+  max-width: 48rem;
+  margin: 0 auto;
   font-family: "Lora", "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif !important;
 }
