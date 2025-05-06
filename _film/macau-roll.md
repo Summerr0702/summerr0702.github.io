@@ -65,12 +65,12 @@ gallery:
   - /assets/images/film/macau-54.jpg
   - /assets/images/film/macau-55.jpg
   - /assets/images/film/macau-56.jpg
-  - /assets/images/film/macau-57.jpg
   - /assets/images/film/macau-58.jpg
   - /assets/images/film/macau-59.jpg
   - /assets/images/film/macau-60.jpg
   - /assets/images/film/macau-61.jpg
   - /assets/images/film/macau-62.jpg
+  - /assets/images/film/macau-57.jpg
   - /assets/images/film/macau-63.jpg
   - /assets/images/film/macau-64.jpg
   - /assets/images/film/macau-65.jpg
