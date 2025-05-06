@@ -14,4 +14,16 @@
     margin: 1rem auto 0 auto !important;
     font-family: "Lora", "Noto Serif SC", "PingFang SC", "Microsoft YaHei", serif !important;
   }
+
+body::before {
+  content: "✅ Custom head loaded!";
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: yellow;
+  color: red;
+  font-size: 16px;
+  z-index: 9999;
+}
 </style>
+
