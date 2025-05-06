@@ -24,21 +24,3 @@
 
 .search-content .archive__item-excerpt {
   display: none !important;
-
-/* 调整首页标题字体大小 */
-.page__hero--overlay .page__title {
-  font-size: 1.75rem !important;
-  line-height: 1.3 !important;
-  font-weight: 600 !important;
-  font-family: "Lora", "Noto Serif SC", "PingFang SC", "Microsoft Yahei", serif !important;
-}
-
-/* 调整首页副标题（excerpt/overlay_text）字体大小 */
-.page__hero--overlay .page__lead {
-  font-size: 1rem !important;
-  line-height: 1.5 !important;
-  font-weight: 400 !important;
-  font-family: "Lora", "Noto Serif SC", "PingFang SC", "Microsoft Yahei", serif !important;
-  max-width: 48rem !important;
-  margin: 0 auto !important;
-}
