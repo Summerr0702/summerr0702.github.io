@@ -107,6 +107,14 @@ defaults:
       layout: single
       author_profile: true
 
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: home
+      head: custom-head
+      author_profile: false
+
 remote_theme: mmistakes/minimal-mistakes
 
 collections:
