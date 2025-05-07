@@ -95,21 +95,20 @@ overlay_text: |
 </head>
 <body>
 
-<!-- 地图容器 -->
-<div id="map"></div>
+<div id="map" style="width: 100%; height: 480px; border-radius: 12px; margin: 2rem auto;"></div>
 
-<!-- 引入 Mapbox GL JS 的 JavaScript -->
-<script src="https://api.mapbox.com/mapbox-gl-js/v3.11.1/mapbox-gl.js"></script>
+<!-- Mapbox 引入 -->
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
+
 <script>
-  // 设置你的 Mapbox 访问令牌
   mapboxgl.accessToken = 'pk.eyJ1Ijoic3VtbWVybGl1MDcwMiIsImEiOiJjbWFlM2ZsZWIwM2RvMm1vZjh6MmlxZWVpIn0.FhKkdV0ct8uq8vH7Os094g';
 
-  // 初始化地图
   const map = new mapboxgl.Map({
-    container: 'map', 
-    style: ‘mapbox://styles/summerliu0702/cmaea315x004y01s840p7d5wz’,
-    center: [139.6917, 35.6895], // 初始中心坐标 [经度, 纬度]，这里是东京
-    zoom: 2 // 初始缩放级别
+    container: 'map',
+    style: 'mapbox://styles/mapbox/navigation-day-v1',  // Sky 模板
+    center: [139.6917, 35.6895], // 默认居中：东京
+    zoom: 2.3
   });
 
   // 添加地图控件（缩放和旋转）
