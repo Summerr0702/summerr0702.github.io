@@ -1,6 +1,6 @@
 main:
-  - title: "Articles"
-    url: /posts/
+  - title: "Home"
+    url: /
   - title: "Journal"
     url: /journal/
   - title: "Travel"
