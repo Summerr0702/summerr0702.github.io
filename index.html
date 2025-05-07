@@ -138,9 +138,9 @@ overlay_text: |
 <style>
 .right-sidebar-box {
   position: absolute;
-  top: 24rem;
+  top: 8rem;
   right: 3rem;
-  width: 230px;
+  width: 260px;
   background: #f9f9f9;
   padding: 1rem;
   border-radius: 8px;
@@ -166,7 +166,7 @@ overlay_text: |
   margin-bottom: 0.5rem;
 }
 
-/* ✅ 仅在大于 1024px 的屏幕上显示 */
+/* ✅ 小屏幕自动隐藏右侧内容 */
 @media screen and (max-width: 1024px) {
   .right-sidebar-box {
     display: none;
@@ -175,6 +175,14 @@ overlay_text: |
 </style>
 
 <div class="right-sidebar-box">
+  <h4>🎧 My Little Soundtrack</h4>
+  <iframe style="border-radius:12px; width:100%; height:152px; margin-bottom: 1rem;"
+    src="https://open.spotify.com/embed/playlist/72DPjueHU5QqbE9ynWdbjk?utm_source=generator"
+    frameBorder="0" allowfullscreen=""
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
+
   <h4>🔗 Wander Map</h4>
   <ul>
     <li><a href="https://kottke.org/" target="_blank">Kottke.org</a></li>
