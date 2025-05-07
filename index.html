@@ -67,16 +67,63 @@ overlay_text: |
   </iframe>
 </div>
 
-<div style="margin: 3rem auto; max-width: 600px; text-align: center;">
-  <h4 style="font-family: 'Lora', serif; font-size: 1.25rem; font-weight: 700; margin-bottom: 1rem;">
-    🗺️ Places I've Been
-  </h4>
-  <img 
-    src="https://api.mapbox.com/styles/v1/mapbox/light-v11/static/pin-l-star+285A98(139.6917,35.6895),pin-l-circle+F44336(-73.5673,45.5017),pin-l-heart+6A5ACD(113.5439,22.1987)/0,0,1.5/600x300?access_token=pk.eyJ1Ijoic3VtbWVybGl1MDcwMiIsImEiOiJjbWFlM2ZsZWIwM2RvMm1vZjh6MmlxZWVpIn0.FhKkdV0ct8uq8vH7Os094g"
-    alt="My travel map"
-    style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
-  />
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Interactive Map</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <!-- 引入 Mapbox GL JS 的 CSS -->
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.11.1/mapbox-gl.css" rel="stylesheet" />
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { width: 100%; height: 500px; }
+  </style>
+</head>
+<body>
+
+<!-- 地图容器 -->
+<div id="map"></div>
+
+<!-- 引入 Mapbox GL JS 的 JavaScript -->
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.11.1/mapbox-gl.js"></script>
+<script>
+  // 设置你的 Mapbox 访问令牌
+  mapboxgl.accessToken = 'pk.eyJ1Ijoic3VtbWVybGl1MDcwMiIsImEiOiJjbWFlM2ZsZWIwM2RvMm1vZjh6MmlxZWVpIn0.FhKkdV0ct8uq8vH7Os094g';
+
+  // 初始化地图
+  const map = new mapboxgl.Map({
+    container: 'map', // 地图容器的 ID
+    style: 'mapbox://styles/mapbox/streets-v11', // 地图样式
+    center: [139.6917, 35.6895], // 初始中心坐标 [经度, 纬度]，这里是东京
+    zoom: 2 // 初始缩放级别
+  });
+
+  // 添加地图控件（缩放和旋转）
+  map.addControl(new mapboxgl.NavigationControl());
+
+  // 添加标记（例如：东京）
+  new mapboxgl.Marker()
+    .setLngLat([139.6917, 35.6895]) // 东京的经纬度
+    .setPopup(new mapboxgl.Popup().setHTML("<h3>东京</h3><p>日本的首都。</p>")) // 弹出框
+    .addTo(map);
+
+  // 你可以继续添加更多的标记
+  // 例如：蒙特利尔
+  new mapboxgl.Marker()
+    .setLngLat([-73.5673, 45.5017]) // 蒙特利尔的经纬度
+    .setPopup(new mapboxgl.Popup().setHTML("<h3>蒙特利尔</h3><p>加拿大的城市。</p>"))
+    .addTo(map);
+
+  // 例如：澳门
+  new mapboxgl.Marker()
+    .setLngLat([113.5439, 22.1987]) // 澳门的经纬度
+    .setPopup(new mapboxgl.Popup().setHTML("<h3>澳门</h3><p>中国的特别行政区。</p>"))
+    .addTo(map);
+</script>
+
+</body>
+</html>
 
 {% include feature_row id="photography" %}
 
