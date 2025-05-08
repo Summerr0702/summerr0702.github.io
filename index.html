@@ -91,27 +91,82 @@ overlay_text: |
     zoom: 1.43
   });
 
-  // 添加地图控件（缩放和旋转）
   map.addControl(new mapboxgl.NavigationControl());
 
-  // 添加标记（例如：东京）
   new mapboxgl.Marker()
-    .setLngLat([139.6917, 35.6895]) // 东京的经纬度
-    .setPopup(new mapboxgl.Popup().setHTML("<h3>东京</h3><p>日本的首都。</p>")) // 弹出框
+    .setLngLat([139.6917, 35.6895]) 
+    .setPopup(new mapboxgl.Popup().setHTML("<h3>Tokyo</h3><p>cinematic city & cinematic dreams。</p>")) // 弹出框
     .addTo(map);
 
-  // 你可以继续添加更多的标记
-  // 例如：蒙特利尔
   new mapboxgl.Marker()
-    .setLngLat([-73.5673, 45.5017]) // 蒙特利尔的经纬度
-    .setPopup(new mapboxgl.Popup().setHTML("<h3>蒙特利尔</h3><p>加拿大的城市。</p>"))
+    .setLngLat([-73.5673, 45.5017]) 
+    .setPopup(new mapboxgl.Popup().setHTML("<h3>Montreal</h3><p>Little Berlin :-D。</p>"))
     .addTo(map);
 
-  // 例如：澳门
   new mapboxgl.Marker()
-    .setLngLat([113.5439, 22.1987]) // 澳门的经纬度
-    .setPopup(new mapboxgl.Popup().setHTML("<h3>澳门</h3><p>中国的特别行政区。</p>"))
+    .setLngLat([113.5439, 22.1987]) 
+    .setPopup(new mapboxgl.Popup().setHTML("<h3>Macau</h3><p>I left a part of myself here forever.</p>"))
     .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([114.1694, 22.3193])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Hong Kong</h3><p>The city has my respect.</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([117.2906, 34.2127])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Xuzhou</h3><p>home forever</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([121.4737, 31.2304])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Shanghai</h3><p>Exquisite yet selfish. I love you, partly.</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([116.4074, 39.9042])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Beijing</h3><p>It's weird to say I love you, but I find that I do.</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([-75.6972, 45.4215])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Ottawa</h3><p>The tulips by the Rideau River are still waiting for me.</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([-79.3832, 43.6532])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Toronto</h3><p>More awaits, still undiscovered.</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([-79.24, 43.1594])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>St. Catharines</h3><p>The first place I called home in Canada.</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([-71.2082, 46.8139])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Quebec City</h3><p>Even beyond the world’s end, nothing compares.</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([-74.0060, 40.7128])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>New York</h3><p>I love this city the way it loves me.</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([-118.2437, 34.0522])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Los Angeles</h3><p>Thank you for making me feel alive.。</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([-81.5158, 27.6648])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Florida</h3><p>Sunlight in February, a spring hard to come by.</p>"))
+  .addTo(map);
+
+new mapboxgl.Marker()
+  .setLngLat([100.5018, 13.7563])
+  .setPopup(new mapboxgl.Popup().setHTML("<h3>Bangkok</h3><p>My loved one and I made memories here.</p>"))
+  .addTo(map);
 </script>
 
 </body>
