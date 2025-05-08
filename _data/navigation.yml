@@ -3,13 +3,9 @@ main:
   url: /
 - title: "Journal"
   url: /journal/
-  target: _blank
 - title: "Travel"
   url: /travel/
-  target: _blank
 - title: "Film"
   url: /film/
-  target: _blank
 - title: "About"
   url: /about/
-  target: _blank
