@@ -1,11 +1,15 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Journal"
-    url: /journal/
-  - title: "Travel"
-    url: /travel/
-  - title: "Film"
-    url: /film/
-  - title: "About"
-    url: /about/
+- title: "Home"
+  url: /
+- title: "Journal"
+  url: /journal/
+  target: _blank
+- title: "Travel"
+  url: /travel/
+  target: _blank
+- title: "Film"
+  url: /film/
+  target: _blank
+- title: "About"
+  url: /about/
+  target: _blank
