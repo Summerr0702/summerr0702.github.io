@@ -96,8 +96,7 @@ defaults:
       read_time: false
       comments: true
       share: true
-      related_posts:
-        limit: 3
+      related_posts: false
 
   # pages (包括所有非-posts 的页面)
   - scope:
