@@ -63,6 +63,7 @@ author:
     - label: "Instagram"
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/summerliu_u/"
+      target: _blank 
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/congran-liu-9b4563252/"
