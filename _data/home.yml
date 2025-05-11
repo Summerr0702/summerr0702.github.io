@@ -9,6 +9,7 @@ photography:
   - image_path: /assets/images/homephoto-2.jpg
     alt: "Tokyo at dusk"
     title: "Tokyo in Dusk"
+    title_align: center
     excerpt: "Lights, shadows, and the quiet rhythm of the city."
     url: /photography/tokyo-dusk/
 
