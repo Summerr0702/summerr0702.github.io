@@ -1,20 +1,17 @@
 photography:
   - image_path: /assets/images/homephoto-1.jpg
-    title: "NYC in the twilight"
+    title: "暮色中的纽约"
     title_align: center
-    excerpt: "In that moment, far from the crowd, New York wore an expression of cold detachment."
+    excerpt: "在离人群很远的地方，纽约在这一刻展露它疏离的神情。"
     url: /usa/Travel-USA-NYC01/
-    button: true
 
   - image_path: /assets/images/homephoto-2.jpg
-    alt: "Tokyo at dusk"
-    title: "Tokyo in Dusk"
+    title: "离日本海最近的车站"
     title_align: center
     excerpt: "Lights, shadows, and the quiet rhythm of the city."
     url: /photography/tokyo-dusk/
 
   - image_path: /assets/images/homephoto-3.jpg
-    alt: "A leafy nook"
-    title: "A Leafy Corner"
+    title: "直到世界尽头"
     excerpt: "Where peace and light meet in green."
     url: /photography/leafy-corner/
