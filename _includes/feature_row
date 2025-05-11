@@ -40,16 +40,3 @@
 
 </div>
 
-.feature__item {
-  text-align: center;
-}
-
-.feature__item h3 {
-  text-align: center;
-}
-
-.feature__item a {
-  display: inline-block;
-  text-align: center;
-  margin-top: 0.5rem;
-}
