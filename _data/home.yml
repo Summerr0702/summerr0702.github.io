@@ -1,8 +1,10 @@
 photography:
   - image_path: /assets/images/homephoto-1.jpg
     title: "NYC in the twilight"
+    title_align: center
     excerpt: "In that moment, far from the crowd, New York wore an expression of cold detachment."
     url: /usa/Travel-USA-NYC01/
+    button: true
 
   - image_path: /assets/images/homephoto-2.jpg
     alt: "Tokyo at dusk"
