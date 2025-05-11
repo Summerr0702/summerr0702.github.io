@@ -1,9 +1,8 @@
 photography:
   - image_path: /assets/images/homephoto-1.jpg
-    alt: "Hydrangea in bloom"
-    title: "Hydrangea Blue"
-    excerpt: "A glimpse of calmness I captured in early summer."
-    url: /photography/hydrangea-blue/
+    title: "暮色中的纽约"
+    excerpt: "在离人群很远的地方，纽约在这一刻展露它冷淡疏离的神情。"
+    url: /usa/Travel-USA-NYC01/
 
   - image_path: /assets/images/homephoto-2.jpg
     alt: "Tokyo at dusk"
