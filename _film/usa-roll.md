@@ -24,6 +24,21 @@ gallery:
   - /assets/images/film/usa-10.jpg
   - /assets/images/film/usa-14.jpg
   - /assets/images/film/usa-15.jpg
+  - /assets/images/film/usa-16.jpg
+  - /assets/images/film/usa-17.jpg
+  - /assets/images/film/usa-18.jpg
+  - /assets/images/film/usa-19.jpg
+  - /assets/images/film/usa-20.jpg
+  - /assets/images/film/usa-21.jpg
+  - /assets/images/film/usa-22.jpg
+  - /assets/images/film/usa-23.jpg
+  - /assets/images/film/usa-24.jpg
+  - /assets/images/film/usa-25.jpg
+  - /assets/images/film/usa-26.jpg
+  - /assets/images/film/usa-27.jpg
+  - /assets/images/film/usa-28.jpg
+  - /assets/images/film/usa-29.jpg
+  - /assets/images/film/usa-30.jpg
 ---
 
 <!-- 悬浮返回按钮 -->
