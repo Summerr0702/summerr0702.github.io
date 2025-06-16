@@ -59,6 +59,14 @@ gallery:
   - /assets/images/film/canada-48.jpg
   - /assets/images/film/canada-49.jpg
   - /assets/images/film/canada-50.jpg
+  - /assets/images/film/canada-51.jpg
+  - /assets/images/film/canada-52.jpg
+  - /assets/images/film/canada-53.jpg
+  - /assets/images/film/canada-54.jpg
+  - /assets/images/film/canada-55.jpg
+  - /assets/images/film/canada-56.jpg
+  - /assets/images/film/canada-57.jpg
+  - /assets/images/film/canada-58.jpg
 ---
 
 <!-- 悬浮返回按钮 -->
